@@ -1,16 +1,16 @@
 {
   "date": "2026-08-11",
-  "generatedAt": "2026-08-11T11:44:30.658Z",
-  "hanzi": "毋使驚",
-  "romanization": "M̀ sṳ́ kiâng",
-  "pronunciation": "m (hummed, low) — sss (rising) — kyahng",
-  "pos": "expression / interjection",
-  "meaning": "don't be afraid; no need to worry",
-  "mandarin": "不要怕 (bú yào pà)",
+  "generatedAt": "2026-08-11T12:51:53.066Z",
+  "hanzi": "衫",
+  "romanization": "sâm",
+  "pronunciation": "sahm (rising slightly, like 'saam' but shorter)",
+  "pos": "noun",
+  "meaning": "clothes; a shirt/top",
+  "mandarin": "衣服 (yīfu) / 衫 (shān)",
   "example": {
-    "hakka": "毋使驚,你做得。",
-    "romanization": "M̀ sṳ́ kiâng, ngì cho-tet.",
-    "english": "Don't be afraid, you can do it."
+    "hakka": "厓著這領衫。",
+    "romanization": "Ngài chok liá liâng sâm.",
+    "english": "I'm wearing this shirt."
   },
-  "note": "毋 (m̀) is Hakka's own negation word, distinct from Mandarin's 不 — 毋使 literally means 'don't need to,' so this phrase is a warm, reassuring way to calm someone rather than a blunt command."
+  "note": "In everyday Hakka, 衫 alone often just means 'clothes' in general, not just a shirt — similar to how it works in Cantonese. It's paired with the measure word 領 (liâng) for garments."
 }
