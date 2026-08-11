@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hakka Word of the Day · 客家話</title>
+  <link rel="stylesheet" href="public/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>客</text></svg>" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-seal">客</span>
+      <div class="brand-text">
+        <h1>Hakka Word of the Day</h1>
+        <p class="brand-sub">客家話 · one word, every day</p>
+      </div>
+    </div>
+    <div class="today-date" id="todayDate"></div>
+  </header>
+
+  <main>
+    <section id="loading" class="panel loading">
+      <div class="ink-spinner"><span>客</span></div>
+      <p>Loading your words…</p>
+    </section>
+
+    <section id="error" class="panel error hidden">
+      <h2>Couldn't load words</h2>
+      <p id="errorMsg"></p>
+    </section>
+
+    <section id="wordCard" class="panel word-card hidden">
+      <div class="card-top">
+        <span class="badge" id="wordDate"></span>
+        <span class="badge pos" id="wordPos"></span>
+      </div>
+      <div class="hanzi" id="wordHanzi"></div>
+      <div class="romanization" id="wordRoman"></div>
+      <div class="pronunciation">sounds like <em id="wordPron"></em></div>
+      <p class="meaning" id="wordMeaning"></p>
+      <div class="divider"><span>例句 · example</span></div>
+      <div class="example">
+        <p class="ex-hakka" id="exHakka"></p>
+        <p class="ex-roman" id="exRoman"></p>
+        <p class="ex-english" id="exEnglish"></p>
+      </div>
+      <div class="meta-grid">
+        <div class="meta-block">
+          <h3>Mandarin</h3>
+          <p id="wordMandarin"></p>
+        </div>
+        <div class="meta-block">
+          <h3>Note</h3>
+          <p id="wordNote"></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="history-section">
+      <h2 class="history-title">Words you've learned <span id="historyCount"></span></h2>
+      <ul id="historyList" class="history-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    Sixian dialect · Pha̍k-fa-sṳ romanization · read-only mirror, synced from your PC
+  </footer>
+
+  <script>
+    const $ = (id) => document.getElementById(id);
+
+    function renderWord(w) {
+      $("wordDate").textContent = w.date;
+      $("wordPos").textContent = w.pos || "word";
+      $("wordHanzi").textContent = w.hanzi || "";
+      $("wordRoman").textContent = w.romanization || "";
+      $("wordPron").textContent = w.pronunciation || "";
+      $("wordMeaning").textContent = w.meaning || "";
+      $("exHakka").textContent = w.example?.hakka || "";
+      $("exRoman").textContent = w.example?.romanization || "";
+      $("exEnglish").textContent = w.example?.english || "";
+      $("wordMandarin").textContent = w.mandarin || "—";
+      $("wordNote").textContent = w.note || "—";
+      $("loading").classList.add("hidden");
+      $("error").classList.add("hidden");
+      $("wordCard").classList.remove("hidden");
+    }
+
+    function renderHistory(words) {
+      $("historyCount").textContent = words.length ? `· ${words.length}` : "";
+      const list = $("historyList");
+      list.innerHTML = "";
+      for (const w of [...words].reverse()) {
+        const li = document.createElement("li");
+        li.className = "history-item";
+        const mk = (cls, text) => {
+          const s = document.createElement("span");
+          s.className = cls;
+          s.textContent = text;
+          return s;
+        };
+        li.append(
+          mk("hi-hanzi", w.hanzi),
+          mk("hi-roman", w.romanization),
+          mk("hi-meaning", w.meaning),
+          mk("hi-date", w.date)
+        );
+        li.style.cursor = "pointer";
+        li.addEventListener("click", () => {
+          renderWord(w);
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+        list.append(li);
+      }
+    }
+
+    (async () => {
+      try {
+        const res = await fetch("data/words.json?t=" + Date.now());
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const words = await res.json();
+        if (!words.length) throw new Error("No words synced yet.");
+        renderWord(words[words.length - 1]);
+        renderHistory(words);
+      } catch (err) {
+        $("errorMsg").textContent = err.message;
+        $("loading").classList.add("hidden");
+        $("error").classList.remove("hidden");
+      }
+    })();
+
+    $("todayDate").textContent = new Date().toLocaleDateString(undefined, {
+      weekday: "long", year: "numeric", month: "long", day: "numeric",
+    });
+  </script>
+</body>
+</html>

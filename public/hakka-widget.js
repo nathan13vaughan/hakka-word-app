@@ -13,16 +13,14 @@
 const SERVER = "http://192.168.50.46:3456"; // your PC on your home Wi-Fi
 
 // GitHub source — works from anywhere, even with the PC asleep.
-// Create a fine-grained personal access token (github.com → Settings →
-// Developer settings → Fine-grained tokens) limited to this one repo with
-// ONLY "Contents: Read-only", and paste it below ON YOUR PHONE.
-// ⚠ Never save the token into this file on the PC — it would get committed.
 const GITHUB = {
   user: "nathan13vaughan",
   repo: "hakka-word-app",
   branch: "main",
-  token: "", // ← paste your token here (in Scriptable on the phone only)
 };
+
+// Tapping the widget opens the GitHub Pages mirror of the app.
+const PAGES_URL = `https://${GITHUB.user}.github.io/${GITHUB.repo}/`;
 
 // Palette (light, dark) — matches the web app.
 const BG = Color.dynamic(new Color("#f6f1e7"), new Color("#171412"));
@@ -35,14 +33,9 @@ const fm = FileManager.local();
 const CACHE = fm.joinPath(fm.documentsDirectory(), "hakka-word-cache.json");
 
 async function fromGitHub() {
-  if (!GITHUB.token) throw new Error("no token");
   const req = new Request(
-    `https://api.github.com/repos/${GITHUB.user}/${GITHUB.repo}/contents/data/latest.json?ref=${GITHUB.branch}`
+    `https://raw.githubusercontent.com/${GITHUB.user}/${GITHUB.repo}/${GITHUB.branch}/data/latest.json`
   );
-  req.headers = {
-    Accept: "application/vnd.github.raw+json",
-    Authorization: "Bearer " + GITHUB.token,
-  };
   req.timeoutInterval = 10;
   const word = await req.loadJSON();
   if (!word || !word.hanzi) throw new Error("bad GitHub response");
@@ -82,7 +75,7 @@ function serif(size, bold) {
 const { word, offline } = await getWord();
 const widget = new ListWidget();
 widget.backgroundColor = BG;
-widget.url = SERVER; // tapping the widget opens the web app
+widget.url = PAGES_URL; // tapping the widget opens the app mirror
 widget.setPadding(14, 16, 14, 16);
 // Ask iOS to refresh roughly hourly (it decides the exact timing).
 widget.refreshAfterDate = new Date(Date.now() + 60 * 60 * 1000);

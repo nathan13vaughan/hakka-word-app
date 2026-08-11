@@ -62,20 +62,18 @@ web app. If your PC's LAN IP changes, edit the `SERVER` line at the top of
 
 ### Working from anywhere via GitHub
 
-The widget's preferred source is GitHub, which works on any network with the
-PC asleep. After each generated word the server auto-commits and pushes
-`data/words.json` + `data/latest.json` to the `origin` remote (skipped until
-one exists), and while the server runs it auto-generates each day's word
-after 7 a.m. One-time setup:
+The widget's preferred source is the public GitHub repo
+(`nathan13vaughan/hakka-word-app`), which works on any network with the PC
+asleep — no tokens needed. After each generated word the server auto-commits
+and pushes `data/words.json` + `data/latest.json` (skipped if no `origin`
+remote), and while the server runs it auto-generates each day's word after
+7 a.m.
 
-1. `gh auth login` — re-authenticate the GitHub CLI.
-2. `gh repo create hakka-word-app --private --source=. --push` — create the
-   private repo and push.
-3. On github.com: Settings → Developer settings → Fine-grained tokens →
-   generate a token restricted to the `hakka-word-app` repo with only
-   **Contents: Read-only**, no expiry concerns aside — then paste it into the
-   `GITHUB.token` field of the widget script **in Scriptable on your phone**.
-   Never paste the token into the file on the PC — it would get committed.
+The repo also serves a **GitHub Pages mirror of the app** at
+<https://nathan13vaughan.github.io/hakka-word-app/> — the root `index.html`
+is a read-only viewer of the synced words, and tapping the home-screen
+widget opens it. Since generation happens on the PC, the mirror always shows
+the last word that was pushed.
 
 ## API
 
