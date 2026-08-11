@@ -60,20 +60,27 @@ if needed) and caches the last word on-device. Tapping the widget opens the
 web app. If your PC's LAN IP changes, edit the `SERVER` line at the top of
 [public/hakka-widget.js](public/hakka-widget.js) and re-copy it to your phone.
 
-### Working from anywhere via GitHub
+### Standalone operation (no PC needed)
 
-The widget's preferred source is the public GitHub repo
-(`nathan13vaughan/hakka-word-app`), which works on any network with the PC
-asleep — no tokens needed. After each generated word the server auto-commits
-and pushes `data/words.json` + `data/latest.json` (skipped if no `origin`
-remote), and while the server runs it auto-generates each day's word after
-7 a.m.
+Daily words are generated **in the cloud** by the GitHub Actions workflow
+[.github/workflows/daily-word.yml](.github/workflows/daily-word.yml): every
+day at 7 a.m. Sydney time it runs `node generate.js` on a GitHub runner using
+the Claude Code CLI, commits the new word, and GitHub Pages redeploys. The
+phone widget and the Pages app read straight from the repo, so nothing
+depends on the PC being on.
 
-The repo also serves a **GitHub Pages mirror of the app** at
-<https://nathan13vaughan.github.io/hakka-word-app/> — the root `index.html`
-is a read-only viewer of the synced words, and tapping the home-screen
-widget opens it. Since generation happens on the PC, the mirror always shows
-the last word that was pushed.
+- **App from anywhere:** <https://nathan13vaughan.github.io/hakka-word-app/>
+- **Extra word on demand:** open the repo in the GitHub app or website →
+  Actions → "Daily Hakka word" → Run workflow. Manual runs always add a word.
+- **One-time setup:** run `claude setup-token` on a machine where Claude Code
+  is logged in, then store the token as a repo secret named
+  `CLAUDE_CODE_OAUTH_TOKEN` (`gh secret set CLAUDE_CODE_OAUTH_TOKEN`). This
+  lets the workflow generate words on your Claude subscription.
+
+The local server (`node server.js` / `start-hakka.cmd`) is now just an
+optional home companion: browse at <http://localhost:3456>, generate extra
+words with the button, and it pulls/pushes the repo to stay in sync with the
+cloud-generated words.
 
 ## API
 
