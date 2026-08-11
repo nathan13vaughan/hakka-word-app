@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-08-10",
+    "generatedAt": "2026-08-10T00:00:00.000Z",
+    "hanzi": "食飯",
+    "romanization": "sṳ̍t-fan",
+    "pronunciation": "sut-fahn",
+    "pos": "verb",
+    "meaning": "to eat; to have a meal",
+    "mandarin": "吃飯 (chīfàn)",
+    "example": {
+      "hakka": "你食飯吂？",
+      "romanization": "Ngì sṳ̍t-fan màng?",
+      "english": "Have you eaten yet?"
+    },
+    "note": "「你食飯吂？」(Have you eaten?) is a classic Hakka greeting — asking whether someone has eaten is a warm way of saying hello, much like in other Chinese communities."
+  },
+  {
+    "date": "2026-08-10",
+    "generatedAt": "2026-08-10T12:07:51.440Z",
+    "hanzi": "山歌",
+    "romanization": "sân-kô",
+    "pronunciation": "sahn-goh (like 'sahn' in 'saga' + 'go' with a flat tone)",
+    "pos": "noun",
+    "meaning": "Hakka mountain song; a traditional folk song genre",
+    "mandarin": "山歌 (shān'gē)",
+    "example": {
+      "hakka": "Kì voi chhong sân-kô.",
+      "romanization": "Kì voi chhong sân-kô.",
+      "english": "He/She can sing Hakka mountain songs."
+    },
+    "note": "Sân-kô are improvised, often antiphonal songs traditionally sung by tea pickers and farmers in the hills; they remain a proud symbol of Hakka identity and are still performed at cultural festivals in Taiwan today."
+  },
+  {
+    "date": "2026-08-10",
+    "generatedAt": "2026-08-10T12:09:11.346Z",
+    "hanzi": "天光日",
+    "romanization": "thiên-kông-ngit",
+    "pronunciation": "tee-en gong ngit (ngit rhymes with 'neat' but starts with an 'ng' sound like in 'sing')",
+    "pos": "noun (time word)",
+    "meaning": "tomorrow",
+    "mandarin": "明天 (míngtiān)",
+    "example": {
+      "hakka": "天光日𠊎愛去學校。",
+      "romanization": "Thiên-kông-ngit ngài oi hi ho̍k-hau.",
+      "english": "Tomorrow I will go to school."
+    },
+    "note": "Literally 'sky-bright day' — Hakka builds time words from vivid images rather than counting units, unlike Mandarin's 明天. Compare 今晡日 (today, 'this-moment day') and 尋日 (yesterday)."
+  },
+  {
+    "date": "2026-08-10",
+    "generatedAt": "2026-08-10T12:12:03.376Z",
+    "hanzi": "學校",
+    "romanization": "ho̍k-hau",
+    "pronunciation": "HOKE-how (short clipped 'k', then 'how' as in cow)",
+    "pos": "noun",
+    "meaning": "school",
+    "mandarin": "學校 (xuéxiào)",
+    "example": {
+      "hakka": "佢每日去學校讀書。",
+      "romanization": "Kì mûi-ngit hi ho̍k-hau thu̍k-sû.",
+      "english": "He/she goes to school every day to study."
+    },
+    "note": "In older Hakka villages the 學校 was often the largest building around and doubled as a community gathering hall for meetings and festivals, not just a place for children's classes."
+  },
+  {
+    "date": "2026-08-10",
+    "generatedAt": "2026-08-10T12:13:14.366Z",
+    "hanzi": "牛",
+    "romanization": "ngiù",
+    "pronunciation": "like \"ngyoo\" — start with the \"ng\" sound from \"sing,\" then \"yoo,\" voice dropping as you say it",
+    "pos": "noun",
+    "meaning": "cow, ox, cattle",
+    "mandarin": "牛 (niú)",
+    "example": {
+      "hakka": "牛在食草。",
+      "romanization": "Ngiù chhai sṳ̍t chhô.",
+      "english": "The cow is eating grass."
+    },
+    "note": "Ngiù covers cows, oxen, and water buffalo alike — Hakka doesn't split them the way English does. The word shows up often in farming idioms, reflecting how central cattle were to traditional Hakka agricultural life."
+  },
+  {
+    "date": "2026-08-11",
+    "generatedAt": "2026-08-11T11:41:43.912Z",
+    "hanzi": "火車",
+    "romanization": "fó-chhâ",
+    "pronunciation": "faw-chhah (rising tone on 'faw'; 'chhah' has a puff of air on the ch, like in 'church', with a dip-then-rise tone)",
+    "pos": "noun",
+    "meaning": "train",
+    "mandarin": "火車 (huǒchē)",
+    "example": {
+      "hakka": "佢逐日坐火車去學校。",
+      "romanization": "Kì tak-ngit chhô fó-chhâ hi ho̍k-hau.",
+      "english": "He takes the train to school every day."
+    },
+    "note": "車 (chhâ) is the general Hakka word for wheeled vehicles, so it shows up all over transport vocabulary — 汽車 (hi-chhâ, car), 跈車 (thèn-chhâ, to ride along in a car). Old branch rail lines through Hakka hill towns like Miaoli and Neiwan made 火車 a especially everyday word in those communities."
+  },
+  {
+    "date": "2026-08-11",
+    "generatedAt": "2026-08-11T11:44:30.658Z",
+    "hanzi": "毋使驚",
+    "romanization": "M̀ sṳ́ kiâng",
+    "pronunciation": "m (hummed, low) — sss (rising) — kyahng",
+    "pos": "expression / interjection",
+    "meaning": "don't be afraid; no need to worry",
+    "mandarin": "不要怕 (bú yào pà)",
+    "example": {
+      "hakka": "毋使驚,你做得。",
+      "romanization": "M̀ sṳ́ kiâng, ngì cho-tet.",
+      "english": "Don't be afraid, you can do it."
+    },
+    "note": "毋 (m̀) is Hakka's own negation word, distinct from Mandarin's 不 — 毋使 literally means 'don't need to,' so this phrase is a warm, reassuring way to calm someone rather than a blunt command."
+  }
+]

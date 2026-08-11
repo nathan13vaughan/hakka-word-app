@@ -1,0 +1,290 @@
+:root {
+  --bg: #f6f1e7;
+  --panel: #fffdf8;
+  --ink: #2b2620;
+  --muted: #7a6f5f;
+  --accent: #b3382c;       /* seal red */
+  --accent-soft: #f3ded9;
+  --gold: #a9812e;
+  --line: #e5dcc9;
+  --shadow: 0 10px 30px rgba(60, 45, 20, 0.10);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171412;
+    --panel: #201c18;
+    --ink: #ece5d8;
+    --muted: #a2968a;
+    --accent: #e05a48;
+    --accent-soft: #3a2622;
+    --gold: #d1a94f;
+    --line: #383028;
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  }
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Georgia, "Times New Roman", "Noto Serif TC", serif;
+  background: var(--bg);
+  color: var(--ink);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.55;
+}
+
+main {
+  width: min(680px, 92vw);
+  margin: 0 auto;
+  flex: 1;
+}
+
+.hidden { display: none !important; }
+
+/* header ------------------------------------------------------------ */
+
+.site-header {
+  width: min(680px, 92vw);
+  margin: 2.2rem auto 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.brand { display: flex; align-items: center; gap: 0.9rem; }
+
+.brand-seal {
+  display: grid;
+  place-items: center;
+  width: 3.2rem;
+  height: 3.2rem;
+  background: var(--accent);
+  color: #fff8f0;
+  font-size: 1.9rem;
+  border-radius: 0.55rem;
+  box-shadow: var(--shadow);
+  font-family: "Noto Serif TC", Georgia, serif;
+}
+
+.brand-text h1 { font-size: 1.35rem; font-weight: 600; letter-spacing: 0.01em; }
+.brand-sub { color: var(--muted); font-size: 0.9rem; font-style: italic; }
+
+.today-date { color: var(--muted); font-size: 0.95rem; }
+
+/* panels ------------------------------------------------------------ */
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  box-shadow: var(--shadow);
+  padding: 2.2rem 2.4rem;
+  margin-bottom: 1.6rem;
+}
+
+/* loading ----------------------------------------------------------- */
+
+.loading { text-align: center; padding: 3.5rem 2rem; }
+
+.ink-spinner {
+  width: 4.2rem;
+  height: 4.2rem;
+  margin: 0 auto 1.2rem;
+  border-radius: 50%;
+  border: 3px solid var(--line);
+  border-top-color: var(--accent);
+  display: grid;
+  place-items: center;
+  animation: spin 1.6s linear infinite;
+}
+
+.ink-spinner span {
+  font-size: 1.6rem;
+  animation: spin-reverse 1.6s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes spin-reverse { to { transform: rotate(-360deg); } }
+
+#loadingMsg { font-size: 1.1rem; }
+.loading-hint { color: var(--muted); font-size: 0.9rem; margin-top: 0.5rem; }
+
+/* error ------------------------------------------------------------- */
+
+.error { text-align: center; }
+.error h2 { color: var(--accent); margin-bottom: 0.6rem; }
+.error p { color: var(--muted); margin-bottom: 1.2rem; white-space: pre-wrap; }
+
+/* word card --------------------------------------------------------- */
+
+.word-card { text-align: center; }
+
+.card-top {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1.4rem;
+}
+
+.badge {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+}
+
+.badge.pos { color: var(--accent); border-color: var(--accent-soft); background: var(--accent-soft); }
+
+.hanzi {
+  font-family: "Noto Serif TC", "MingLiU", Georgia, serif;
+  font-size: clamp(4.2rem, 16vw, 7rem);
+  line-height: 1.15;
+  margin: 0.4rem 0 0.6rem;
+}
+
+.romanization {
+  font-size: 1.7rem;
+  color: var(--accent);
+  font-style: italic;
+}
+
+.pronunciation {
+  color: var(--muted);
+  font-size: 1rem;
+  margin-top: 0.25rem;
+}
+.pronunciation em { color: var(--ink); font-style: normal; font-weight: 600; }
+
+.meaning {
+  font-size: 1.25rem;
+  margin: 1.3rem auto 0;
+  max-width: 34rem;
+}
+
+/* divider ----------------------------------------------------------- */
+
+.divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.8rem 0 1.2rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.divider::before, .divider::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--line);
+}
+
+/* example ----------------------------------------------------------- */
+
+.example { max-width: 36rem; margin: 0 auto; }
+.ex-hakka { font-family: "Noto Serif TC", Georgia, serif; font-size: 1.45rem; }
+.ex-roman { color: var(--accent); font-style: italic; margin-top: 0.2rem; }
+.ex-english { color: var(--muted); margin-top: 0.35rem; }
+
+/* meta -------------------------------------------------------------- */
+
+.meta-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 1rem;
+  margin-top: 1.8rem;
+  text-align: left;
+}
+
+@media (max-width: 540px) { .meta-grid { grid-template-columns: 1fr; } }
+
+.meta-block {
+  background: color-mix(in srgb, var(--panel) 60%, var(--bg));
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+  padding: 0.9rem 1.1rem;
+}
+
+.meta-block h3 {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 0.3rem;
+}
+.meta-block p { font-size: 0.95rem; }
+
+/* actions ----------------------------------------------------------- */
+
+.actions { margin-top: 1.8rem; }
+
+.btn {
+  font-family: inherit;
+  font-size: 0.95rem;
+  padding: 0.55rem 1.4rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: transform 0.1s ease, background 0.15s ease;
+}
+.btn:active { transform: scale(0.97); }
+
+.btn.primary {
+  background: var(--accent);
+  color: #fff8f0;
+  border: none;
+}
+
+.btn.ghost {
+  background: transparent;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+}
+.btn.ghost:hover { background: var(--accent-soft); }
+.btn:disabled { opacity: 0.5; cursor: wait; }
+
+/* history ----------------------------------------------------------- */
+
+.history-section { margin: 2.4rem 0 2rem; }
+
+.history-title {
+  font-size: 1rem;
+  color: var(--muted);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.9rem;
+}
+#historyCount { color: var(--gold); }
+
+.history-list { list-style: none; display: grid; gap: 0.5rem; }
+
+.history-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+  padding: 0.65rem 1rem;
+}
+
+.hi-hanzi { font-family: "Noto Serif TC", Georgia, serif; font-size: 1.35rem; min-width: 3.4rem; }
+.hi-roman { color: var(--accent); font-style: italic; min-width: 6.5rem; }
+.hi-meaning { color: var(--muted); font-size: 0.9rem; flex: 1; }
+.hi-date { color: var(--muted); font-size: 0.75rem; white-space: nowrap; }
+
+/* footer ------------------------------------------------------------ */
+
+.site-footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+  padding: 1.4rem 0 1.8rem;
+}

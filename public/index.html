@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hakka Word of the Day · 客家話</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>客</text></svg>" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-seal">客</span>
+      <div class="brand-text">
+        <h1>Hakka Word of the Day</h1>
+        <p class="brand-sub">客家話 · one word, every day</p>
+      </div>
+    </div>
+    <div class="today-date" id="todayDate"></div>
+  </header>
+
+  <main>
+    <!-- Loading state -->
+    <section id="loading" class="panel loading hidden" aria-live="polite">
+      <div class="ink-spinner"><span>客</span></div>
+      <p id="loadingMsg">Choosing today's word…</p>
+      <p class="loading-hint">Claude is composing a fresh word — this can take a minute.</p>
+    </section>
+
+    <!-- Error state -->
+    <section id="error" class="panel error hidden">
+      <h2>Something went wrong</h2>
+      <p id="errorMsg"></p>
+      <button id="retryBtn" class="btn primary">Try again</button>
+    </section>
+
+    <!-- Word card -->
+    <section id="wordCard" class="panel word-card hidden">
+      <div class="card-top">
+        <span class="badge" id="wordDate"></span>
+        <span class="badge pos" id="wordPos"></span>
+      </div>
+
+      <div class="hanzi" id="wordHanzi"></div>
+
+      <div class="romanization" id="wordRoman"></div>
+      <div class="pronunciation">sounds like <em id="wordPron"></em></div>
+
+      <p class="meaning" id="wordMeaning"></p>
+
+      <div class="divider"><span>例句 · example</span></div>
+
+      <div class="example">
+        <p class="ex-hakka" id="exHakka"></p>
+        <p class="ex-roman" id="exRoman"></p>
+        <p class="ex-english" id="exEnglish"></p>
+      </div>
+
+      <div class="meta-grid">
+        <div class="meta-block">
+          <h3>Mandarin</h3>
+          <p id="wordMandarin"></p>
+        </div>
+        <div class="meta-block">
+          <h3>Note</h3>
+          <p id="wordNote"></p>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="newWordBtn" class="btn ghost">One more word ✦</button>
+      </div>
+    </section>
+
+    <!-- History -->
+    <section class="history-section">
+      <h2 class="history-title">Words you've learned <span id="historyCount"></span></h2>
+      <ul id="historyList" class="history-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    Sixian dialect · Pha̍k-fa-sṳ romanization · generated locally with Claude
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
