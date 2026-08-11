@@ -267,10 +267,20 @@ async function pushToGitHub() {
 let inFlight = null; // only one generation at a time
 let lastAutoAttempt = 0; // throttle widget-triggered background generation
 
+// Backstop so a misbehaving device on the LAN (or a runaway loop) can't
+// burn through Claude subscription usage — far above normal daily use.
+const DAILY_GENERATION_CAP = 30;
+
 async function generateWord() {
   if (inFlight) return inFlight;
   inFlight = (async () => {
     const words = loadWords();
+    const generatedToday = words.filter((w) => w.date === todayStr()).length;
+    if (generatedToday >= DAILY_GENERATION_CAP) {
+      throw new Error(
+        `Daily limit of ${DAILY_GENERATION_CAP} generated words reached — try again tomorrow.`
+      );
+    }
     const word = await runClaude(buildPrompt(words));
     const entry = {
       date: todayStr(),
@@ -317,7 +327,8 @@ function sendJson(res, status, obj) {
 function serveStatic(res, urlPath) {
   const rel = urlPath === "/" ? "index.html" : urlPath.replace(/^\/+/, "");
   const filePath = path.resolve(PUBLIC_DIR, rel);
-  if (!filePath.startsWith(PUBLIC_DIR)) {
+  // Trailing separator so a sibling like "public-x" can't slip past the check.
+  if (!filePath.startsWith(PUBLIC_DIR + path.sep)) {
     res.writeHead(403).end("Forbidden");
     return;
   }
