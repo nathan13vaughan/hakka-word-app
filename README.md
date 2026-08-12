@@ -47,9 +47,12 @@ when your PC is asleep. Setup:
 1. **On your PC, once, in an *administrator* PowerShell** — allow the phone to
    reach the server through Windows Firewall:
    `netsh advfirewall firewall add rule name="Hakka Word Server" dir=in action=allow protocol=TCP localport=3456`
-2. **On your iPhone** (same Wi-Fi, server running): install Scriptable, then
-   open `http://192.168.50.46:3456/hakka-widget.js` in Safari, select all the
-   text and copy it.
+2. **On your iPhone**: install Scriptable, then open
+   `https://raw.githubusercontent.com/nathan13vaughan/hakka-word-app/main/public/hakka-loader.js`
+   in Safari, select all the text and copy it. (This small self-updating
+   loader downloads the real widget, [public/hakka-widget.js](public/hakka-widget.js),
+   on every refresh — widget design changes ship automatically and you never
+   re-paste anything.)
 3. In Scriptable: **+** → paste → name it "Hakka Word".
 4. Long-press your home screen → **Edit** → **Add Widget** → Scriptable →
    choose a size → tap the widget → set **Script** to "Hakka Word".
