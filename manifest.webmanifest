@@ -1,0 +1,13 @@
+{
+  "name": "Hakka Word of the Day",
+  "short_name": "Hakka Word",
+  "description": "One Hakka word, every day.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#b3382c",
+  "icons": [
+    { "src": "icons/icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
