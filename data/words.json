@@ -158,5 +158,21 @@
       "english": "He's sick, he needs to go see a doctor."
     },
     "note": "生病 works as a whole verb phrase (not 'to give birth to sickness') — you can also just say 病 alone, as in 佢病忒了 (he's gotten sick), where 忒 marks a completed change of state."
+  },
+  {
+    "date": "2026-08-13",
+    "generatedAt": "2026-08-12T21:41:37.623Z",
+    "hanzi": "細",
+    "romanization": "sê",
+    "pronunciation": "seh (like 'set' without the t; voice drops slightly at the end)",
+    "pos": "adjective",
+    "meaning": "small, little; (of people) young",
+    "mandarin": "小 (xiǎo)",
+    "example": {
+      "hakka": "這隻餅當細。",
+      "romanization": "Liá-chak piáng tông sê.",
+      "english": "This cookie is very small."
+    },
+    "note": "細 also means 'young' when describing people — 細人仔 (se-ngin-é) literally means 'small person' and is the everyday Hakka word for 'child.'"
   }
 ]
