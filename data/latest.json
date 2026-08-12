@@ -1,16 +1,16 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T11:55:31.848Z",
-  "hanzi": "多謝",
-  "romanization": "tô-siâ",
-  "pronunciation": "daw-syah (rhymes roughly with 'dough-sha', with a slight rising lift on 'sha')",
-  "pos": "interjection / verb",
-  "meaning": "thank you; to thank",
-  "mandarin": "謝謝 (xièxie)",
+  "generatedAt": "2026-08-12T12:33:52.872Z",
+  "hanzi": "生病",
+  "romanization": "sâng-phiang",
+  "pronunciation": "sahng-pyahng (rhymes with 'song' + 'pyang')",
+  "pos": "verb",
+  "meaning": "to become sick, to fall ill",
+  "mandarin": "生病 (shēngbìng)",
   "example": {
-    "hakka": "多謝你打幫。",
-    "romanization": "Tô-siâ ngì tá-pông.",
-    "english": "Thank you for helping me."
+    "hakka": "佢生病,愛去看醫生。",
+    "romanization": "Kì sâng-phiang, oi hi khon yî-sên.",
+    "english": "He's sick, he needs to go see a doctor."
   },
-  "note": "Unlike Mandarin's 謝謝, Hakka speakers use 多謝 in almost every polite context, much like Cantonese 多謝 (do1 ze6) — it's the default everyday 'thanks,' not a formal or extra-emphatic one."
+  "note": "生病 works as a whole verb phrase (not 'to give birth to sickness') — you can also just say 病 alone, as in 佢病忒了 (he's gotten sick), where 忒 marks a completed change of state."
 }
