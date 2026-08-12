@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T12:51:53.066Z",
-  "hanzi": "衫",
-  "romanization": "sâm",
-  "pronunciation": "sahm (rising slightly, like 'saam' but shorter)",
-  "pos": "noun",
-  "meaning": "clothes; a shirt/top",
-  "mandarin": "衣服 (yīfu) / 衫 (shān)",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T11:55:31.848Z",
+  "hanzi": "多謝",
+  "romanization": "tô-siâ",
+  "pronunciation": "daw-syah (rhymes roughly with 'dough-sha', with a slight rising lift on 'sha')",
+  "pos": "interjection / verb",
+  "meaning": "thank you; to thank",
+  "mandarin": "謝謝 (xièxie)",
   "example": {
-    "hakka": "厓著這領衫。",
-    "romanization": "Ngài chok liá liâng sâm.",
-    "english": "I'm wearing this shirt."
+    "hakka": "多謝你打幫。",
+    "romanization": "Tô-siâ ngì tá-pông.",
+    "english": "Thank you for helping me."
   },
-  "note": "In everyday Hakka, 衫 alone often just means 'clothes' in general, not just a shirt — similar to how it works in Cantonese. It's paired with the measure word 領 (liâng) for garments."
+  "note": "Unlike Mandarin's 謝謝, Hakka speakers use 多謝 in almost every polite context, much like Cantonese 多謝 (do1 ze6) — it's the default everyday 'thanks,' not a formal or extra-emphatic one."
 }
