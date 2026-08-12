@@ -180,7 +180,7 @@ function runClaude(prompt) {
         const envelope = JSON.parse(stdout);
         if (envelope.is_error) {
           const msg = String(envelope.result || "Unknown Claude CLI error");
-          if (/authenticat|oauth|401/i.test(msg)) {
+          if (/authenticat|oauth|401/i.test(msg) && !process.env.GITHUB_ACTIONS) {
             reject(
               new Error(
                 "Claude login has expired. Open a terminal, run `claude`, and log in when prompted — then try again."
