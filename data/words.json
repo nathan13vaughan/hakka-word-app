@@ -190,5 +190,21 @@
       "english": "Happy New Year, congratulations!"
     },
     "note": "Hakka speakers often double it — 恭喜恭喜 — as a warm New Year greeting, traditionally exchanged just before elders hand out 紅包 (red envelopes) to children."
+  },
+  {
+    "date": "2026-08-15",
+    "generatedAt": "2026-08-14T21:21:15.280Z",
+    "hanzi": "市場",
+    "romanization": "sṳ-chhòng",
+    "pronunciation": "roughly 'suh-chong' — 市 like a clipped 'suh', 場 like 'chong' rhyming with 'song'",
+    "pos": "noun",
+    "meaning": "market (a place to buy food, produce, and daily goods)",
+    "mandarin": "市場 (shìchǎng)",
+    "example": {
+      "hakka": "𠊎逐日去市場買菜。",
+      "romanization": "Ngài tak-ngit hi sṳ-chhòng mâi-chhoi.",
+      "english": "I go to the market every day to buy vegetables."
+    },
+    "note": "Many Taiwan Hakka speakers casually borrow the Hoklo term 菜市仔 (chhài-chhī-á) for the neighborhood wet market, but 市場 is the standard Hakka word taught and used more formally."
   }
 ]
