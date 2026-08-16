@@ -222,5 +222,21 @@
       "english": "Next week I will go to Taipei."
     },
     "note": "禮拜 is a loanword tied to the Western/Christian calendar that spread widely among Hakka and Hoklo speakers; unlike standard Mandarin 星期, Hakka speakers often just say 禮拜 alone to mean 'Sunday' without adding 日 or 天."
+  },
+  {
+    "date": "2026-08-17",
+    "generatedAt": "2026-08-16T21:15:54.666Z",
+    "hanzi": "頭家",
+    "romanization": "thèu-kâ",
+    "pronunciation": "TAY-oo GAH (thèu rhymes with 'though', kâ like 'gah')",
+    "pos": "noun",
+    "meaning": "boss; shop owner; employer",
+    "mandarin": "老闆 (lǎobǎn)",
+    "example": {
+      "hakka": "佢係一个好頭家。",
+      "romanization": "Kì he yit-ke hó thèu-kâ.",
+      "english": "He is a good boss."
+    },
+    "note": "Besides 'boss', 頭家 is also a warm colloquial term a Hakka wife may use to refer to her husband, similar to how it's used in Taiwanese Hokkien — reflecting the traditional idea of the husband as household head."
   }
 ]
