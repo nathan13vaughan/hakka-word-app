@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-17T21:22:40.500Z",
-  "hanzi": "炒",
-  "romanization": "chháu",
-  "pronunciation": "like the \"chow\" in \"chow mein\", with a rising tone (as if asking a question)",
-  "pos": "verb",
-  "meaning": "to stir-fry",
-  "mandarin": "炒 (chǎo)",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-18T21:19:37.096Z",
+  "hanzi": "碗",
+  "romanization": "vón",
+  "pronunciation": "vawn (rising tone, like asking a question)",
+  "pos": "noun",
+  "meaning": "bowl",
+  "mandarin": "碗 (wǎn)",
   "example": {
-    "hakka": "𠊎盡愛食炒飯。",
-    "romanization": "Ngài chhin oi sṳ̍t chháu-fan.",
-    "english": "I really like to eat fried rice."
+    "hakka": "阿姆,拿隻碗分我。",
+    "romanization": "A-mê, nâ chak vón pûn ngài.",
+    "english": "Mom, hand me a bowl."
   },
-  "note": "炒 shows up in one of Hakka cuisine's most famous exports, 客家小炒 (Hakka-style stir-fry) — a staple at Hakka banquets made with squid, pork, and dried tofu."
+  "note": "The character is the same as in Mandarin, but the Hakka reading 'vón' shows the typical Hakka pattern of initial w-/hollow-sounds in Mandarin becoming v- in Hakka. 碗 is also the go-to classifier-companion word when talking about servings of rice or soup."
 }
