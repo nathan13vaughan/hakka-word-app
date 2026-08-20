@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-19T21:21:47.398Z",
-  "hanzi": "車站",
-  "romanization": "chhâ-chhâm",
-  "pronunciation": "chah-cham (like 'cha' in 'chaos' + 'chum')",
-  "pos": "noun",
-  "meaning": "station (bus or train stop)",
-  "mandarin": "車站 (chēzhàn)",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-20T21:23:34.470Z",
+  "hanzi": "洗身",
+  "romanization": "sé-siên",
+  "pronunciation": "say-see-en (like 'say' + 'see-en', rising then high tones)",
+  "pos": "verb",
+  "meaning": "to bathe; to take a shower/bath",
+  "mandarin": "洗澡 (xǐ zǎo)",
   "example": {
-    "hakka": "車站在哪位?",
-    "romanization": "Chhâ-chhâm chhai nai-vi?",
-    "english": "Where is the station?"
+    "hakka": "𠊎暗晡頭愛洗身。",
+    "romanization": "Ngài am-pu-t'eu oi sé-siên.",
+    "english": "I'm going to take a bath this evening."
   },
-  "note": "车 chhâ is the same root you already know from 火車 (fó-chhâ, train); add 站 chhâm to get 'station', and Hakka speakers often specify 火車站 (train station) vs 汽車站 (bus station)."
+  "note": "Literally 'wash body' — Hakka uses 身 (body) here rather than Mandarin's 澡, so learners shouldn't try to translate word-for-word from Mandarin 洗澡."
 }
