@@ -302,5 +302,21 @@
       "english": "I'm going to take a bath this evening."
     },
     "note": "Literally 'wash body' — Hakka uses 身 (body) here rather than Mandarin's 澡, so learners shouldn't try to translate word-for-word from Mandarin 洗澡."
+  },
+  {
+    "date": "2026-08-22",
+    "generatedAt": "2026-08-21T21:20:16.261Z",
+    "hanzi": "頭那",
+    "romanization": "thèu-ná",
+    "pronunciation": "TUH-oo NAH (falling tone on first syllable, level tone on second)",
+    "pos": "noun",
+    "meaning": "head (the body part)",
+    "mandarin": "頭 (tóu)",
+    "example": {
+      "hakka": "𠊎頭那痛。",
+      "romanization": "Ngài thèu-ná thûng.",
+      "english": "My head hurts."
+    },
+    "note": "頭那 is the everyday colloquial word for 'head' in spoken Hakka, distinct from the more literary 頭 used alone in compounds like 頭家 (boss)."
   }
 ]
