@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-22",
-  "generatedAt": "2026-08-21T21:20:16.261Z",
-  "hanzi": "頭那",
-  "romanization": "thèu-ná",
-  "pronunciation": "TUH-oo NAH (falling tone on first syllable, level tone on second)",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-22T21:17:45.201Z",
+  "hanzi": "眠床",
+  "romanization": "mìn-chhòng",
+  "pronunciation": "min-chong (min rhymes with 'pin', chhong rhymes with 'song' with a puff of air on 'ch')",
   "pos": "noun",
-  "meaning": "head (the body part)",
-  "mandarin": "頭 (tóu)",
+  "meaning": "bed",
+  "mandarin": "床 (chuáng)",
   "example": {
-    "hakka": "𠊎頭那痛。",
-    "romanization": "Ngài thèu-ná thûng.",
-    "english": "My head hurts."
+    "hakka": "這隻眠床當舒服。",
+    "romanization": "Liá-chak mìn-chhòng tông sû-fu̍k.",
+    "english": "This bed is very comfortable."
   },
-  "note": "頭那 is the everyday colloquial word for 'head' in spoken Hakka, distinct from the more literary 頭 used alone in compounds like 頭家 (boss)."
+  "note": "眠床 literally combines '眠' (to sleep) with '床' (bed/platform), a compound retained from older Chinese that Mandarin simplified down to just 床 — Hakka keeps the fuller, more descriptive form."
 }
