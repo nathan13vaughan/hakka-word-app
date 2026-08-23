@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-22T21:17:45.201Z",
-  "hanzi": "眠床",
-  "romanization": "mìn-chhòng",
-  "pronunciation": "min-chong (min rhymes with 'pin', chhong rhymes with 'song' with a puff of air on 'ch')",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-23T21:17:26.569Z",
+  "hanzi": "紅包",
+  "romanization": "fùng-pâu",
+  "pronunciation": "foong-bow (rhymes with 'wow')",
   "pos": "noun",
-  "meaning": "bed",
-  "mandarin": "床 (chuáng)",
+  "meaning": "red envelope (gift of money given for luck)",
+  "mandarin": "紅包 (hóngbāo)",
   "example": {
-    "hakka": "這隻眠床當舒服。",
-    "romanization": "Liá-chak mìn-chhòng tông sû-fu̍k.",
-    "english": "This bed is very comfortable."
+    "hakka": "過年个時節,阿婆分𠊎紅包。",
+    "romanization": "Go-ngièn ke sṳ̀-chiet, â-phò pûn ngài fùng-pâu.",
+    "english": "During the Lunar New Year, grandma gives me a red envelope."
   },
-  "note": "眠床 literally combines '眠' (to sleep) with '床' (bed/platform), a compound retained from older Chinese that Mandarin simplified down to just 床 — Hakka keeps the fuller, more descriptive form."
+  "note": "Red envelopes are given not only at New Year but also at weddings; the amount should avoid the number four, which sounds like 'death' and is considered unlucky."
 }

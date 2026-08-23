@@ -334,5 +334,21 @@
       "english": "This bed is very comfortable."
     },
     "note": "眠床 literally combines '眠' (to sleep) with '床' (bed/platform), a compound retained from older Chinese that Mandarin simplified down to just 床 — Hakka keeps the fuller, more descriptive form."
+  },
+  {
+    "date": "2026-08-24",
+    "generatedAt": "2026-08-23T21:17:26.569Z",
+    "hanzi": "紅包",
+    "romanization": "fùng-pâu",
+    "pronunciation": "foong-bow (rhymes with 'wow')",
+    "pos": "noun",
+    "meaning": "red envelope (gift of money given for luck)",
+    "mandarin": "紅包 (hóngbāo)",
+    "example": {
+      "hakka": "過年个時節,阿婆分𠊎紅包。",
+      "romanization": "Go-ngièn ke sṳ̀-chiet, â-phò pûn ngài fùng-pâu.",
+      "english": "During the Lunar New Year, grandma gives me a red envelope."
+    },
+    "note": "Red envelopes are given not only at New Year but also at weddings; the amount should avoid the number four, which sounds like 'death' and is considered unlucky."
   }
 ]
