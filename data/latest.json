@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-23T21:17:26.569Z",
-  "hanzi": "紅包",
-  "romanization": "fùng-pâu",
-  "pronunciation": "foong-bow (rhymes with 'wow')",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-24T21:25:06.021Z",
+  "hanzi": "手",
+  "romanization": "sú",
+  "pronunciation": "soo (rising tone, like asking 'soo?')",
   "pos": "noun",
-  "meaning": "red envelope (gift of money given for luck)",
-  "mandarin": "紅包 (hóngbāo)",
+  "meaning": "hand",
+  "mandarin": "手 (shǒu)",
   "example": {
-    "hakka": "過年个時節,阿婆分𠊎紅包。",
-    "romanization": "Go-ngièn ke sṳ̀-chiet, â-phò pûn ngài fùng-pâu.",
-    "english": "During the Lunar New Year, grandma gives me a red envelope."
+    "hakka": "食飯前愛洗手。",
+    "romanization": "Sṳ̍t-fan chhièn oi sé sú.",
+    "english": "Before eating, you must wash your hands."
   },
-  "note": "Red envelopes are given not only at New Year but also at weddings; the amount should avoid the number four, which sounds like 'death' and is considered unlucky."
+  "note": "手 (sú) also appears in many compounds, like 手指 (sú-chṳ́, finger) — learning it early unlocks a whole family of body-part words."
 }

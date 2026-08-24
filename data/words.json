@@ -350,5 +350,21 @@
       "english": "During the Lunar New Year, grandma gives me a red envelope."
     },
     "note": "Red envelopes are given not only at New Year but also at weddings; the amount should avoid the number four, which sounds like 'death' and is considered unlucky."
+  },
+  {
+    "date": "2026-08-25",
+    "generatedAt": "2026-08-24T21:25:06.021Z",
+    "hanzi": "手",
+    "romanization": "sú",
+    "pronunciation": "soo (rising tone, like asking 'soo?')",
+    "pos": "noun",
+    "meaning": "hand",
+    "mandarin": "手 (shǒu)",
+    "example": {
+      "hakka": "食飯前愛洗手。",
+      "romanization": "Sṳ̍t-fan chhièn oi sé sú.",
+      "english": "Before eating, you must wash your hands."
+    },
+    "note": "手 (sú) also appears in many compounds, like 手指 (sú-chṳ́, finger) — learning it early unlocks a whole family of body-part words."
   }
 ]
