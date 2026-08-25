@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-24T21:25:06.021Z",
-  "hanzi": "手",
-  "romanization": "sú",
-  "pronunciation": "soo (rising tone, like asking 'soo?')",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T21:23:29.127Z",
+  "hanzi": "阿哥",
+  "romanization": "â-gô",
+  "pronunciation": "ah-GOH",
   "pos": "noun",
-  "meaning": "hand",
-  "mandarin": "手 (shǒu)",
+  "meaning": "older brother",
+  "mandarin": "哥哥 (gēge)",
   "example": {
-    "hakka": "食飯前愛洗手。",
-    "romanization": "Sṳ̍t-fan chhièn oi sé sú.",
-    "english": "Before eating, you must wash your hands."
+    "hakka": "𠊎阿哥當高。",
+    "romanization": "Ngài â-gô dông gô.",
+    "english": "My older brother is very tall."
   },
-  "note": "手 (sú) also appears in many compounds, like 手指 (sú-chṳ́, finger) — learning it early unlocks a whole family of body-part words."
+  "note": "The â- prefix is added to many kinship terms in Hakka (â-gô, â-chí, â-bâ) to make them sound warm and familiar, much like adding 'my dear' — dropping it can sound blunt or distant."
 }
