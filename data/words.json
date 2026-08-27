@@ -382,5 +382,21 @@
       "english": "My older brother is very tall."
     },
     "note": "The â- prefix is added to many kinship terms in Hakka (â-gô, â-chí, â-bâ) to make them sound warm and familiar, much like adding 'my dear' — dropping it can sound blunt or distant."
+  },
+  {
+    "date": "2026-08-27",
+    "generatedAt": "2026-08-27T00:24:42.310Z",
+    "hanzi": "朋友",
+    "romanization": "phèn-yû",
+    "pronunciation": "pen-yoo (like English 'pen' + 'yoo', with the first part low and the second part rising slightly)",
+    "pos": "noun",
+    "meaning": "friend",
+    "mandarin": "朋友 (péngyǒu)",
+    "example": {
+      "hakka": "𠊎兜係好朋友。",
+      "romanization": "Ngài-têu he hó phèn-yû.",
+      "english": "We are good friends."
+    },
+    "note": "The verb phrase 交朋友 (kâu phèn-yû, 'to make friends') is used the same way as in Mandarin; in Hakka villages the word is also stretched to cover friendly neighbors, not just close confidants."
   }
 ]
