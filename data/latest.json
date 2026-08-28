@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-27",
-  "generatedAt": "2026-08-27T00:24:42.310Z",
-  "hanzi": "朋友",
-  "romanization": "phèn-yû",
-  "pronunciation": "pen-yoo (like English 'pen' + 'yoo', with the first part low and the second part rising slightly)",
-  "pos": "noun",
-  "meaning": "friend",
-  "mandarin": "朋友 (péngyǒu)",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T05:04:05.288Z",
+  "hanzi": "毋使多謝",
+  "romanization": "m̀-sṳ́ tô-chhia",
+  "pronunciation": "m-SHU daw-CHA",
+  "pos": "interjection",
+  "meaning": "you're welcome; no need to thank me",
+  "mandarin": "不客氣 (bù kèqi)",
   "example": {
-    "hakka": "𠊎兜係好朋友。",
-    "romanization": "Ngài-têu he hó phèn-yû.",
-    "english": "We are good friends."
+    "hakka": "「多謝你幫忙。」「毋使多謝。」",
+    "romanization": "\"Tô-chhia ngì pông-mông.\" \"M̀-sṳ́ tô-chhia.\"",
+    "english": "\"Thanks for helping me.\" \"You're welcome.\""
   },
-  "note": "The verb phrase 交朋友 (kâu phèn-yû, 'to make friends') is used the same way as in Mandarin; in Hakka villages the word is also stretched to cover friendly neighbors, not just close confidants."
+  "note": "Literally 'no need to thank,' this is the standard polite reply after someone says 多謝 (thank you) — a natural extension for learners who already know 多謝."
 }
