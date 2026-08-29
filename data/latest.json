@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-28",
-  "generatedAt": "2026-08-28T05:04:05.288Z",
-  "hanzi": "毋使多謝",
-  "romanization": "m̀-sṳ́ tô-chhia",
-  "pronunciation": "m-SHU daw-CHA",
-  "pos": "interjection",
-  "meaning": "you're welcome; no need to thank me",
-  "mandarin": "不客氣 (bù kèqi)",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T03:03:10.254Z",
+  "hanzi": "毋知",
+  "romanization": "m̀-tî",
+  "pronunciation": "m (a nasal hum, like saying 'hmm') + tea",
+  "pos": "expression / interjection",
+  "meaning": "\"I don't know\"; \"dunno\" — used alone as a reply, or to preface an uncertain guess",
+  "mandarin": "不知道 (bù zhīdào)",
   "example": {
-    "hakka": "「多謝你幫忙。」「毋使多謝。」",
-    "romanization": "\"Tô-chhia ngì pông-mông.\" \"M̀-sṳ́ tô-chhia.\"",
-    "english": "\"Thanks for helping me.\" \"You're welcome.\""
+    "hakka": "佢去哪位,𠊎毋知。",
+    "romanization": "Kì hi nai-vi, ngài m̀-tî.",
+    "english": "I don't know where he went."
   },
-  "note": "Literally 'no need to thank,' this is the standard polite reply after someone says 多謝 (thank you) — a natural extension for learners who already know 多謝."
+  "note": "Said by itself, 毋知 is a very common one-word answer (like English \"dunno\"), and it also shows up sentence-initially as a hedge, e.g. 毋知會毋會落雨 (\"I wonder if it'll rain\")."
 }
