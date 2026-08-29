@@ -430,5 +430,21 @@
       "english": "I don't know where he went."
     },
     "note": "Said by itself, 毋知 is a very common one-word answer (like English \"dunno\"), and it also shows up sentence-initially as a hedge, e.g. 毋知會毋會落雨 (\"I wonder if it'll rain\")."
+  },
+  {
+    "date": "2026-08-30",
+    "generatedAt": "2026-08-29T22:58:15.367Z",
+    "hanzi": "目珠",
+    "romanization": "mu̍k-chû",
+    "pronunciation": "mook-joo (mook rhymes with 'book', joo as in 'June')",
+    "pos": "noun",
+    "meaning": "eye(s)",
+    "mandarin": "眼睛 (yǎnjīng)",
+    "example": {
+      "hakka": "𠊎目珠會酸。",
+      "romanization": "Ngài mu̍k-chû voi sôn.",
+      "english": "My eyes feel sore."
+    },
+    "note": "Literally 'eye-pearl' — 珠 (pearl/bead) vividly describes the round shape of the eyeball, a common pattern in Hakka body-part vocabulary."
   }
 ]
