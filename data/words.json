@@ -446,5 +446,21 @@
       "english": "My eyes feel sore."
     },
     "note": "Literally 'eye-pearl' — 珠 (pearl/bead) vividly describes the round shape of the eyeball, a common pattern in Hakka body-part vocabulary."
+  },
+  {
+    "date": "2026-08-31",
+    "generatedAt": "2026-08-30T23:05:45.769Z",
+    "hanzi": "两",
+    "romanization": "ngiông",
+    "pronunciation": "ng-YONG (rhymes roughly with 'young' with a nasal ng- start)",
+    "pos": "number",
+    "meaning": "two (used before a measure word, e.g. counting people, items, money)",
+    "mandarin": "兩 (liǎng)",
+    "example": {
+      "hakka": "這隻愛两百銀。",
+      "romanization": "Liá-chak oi ngiông-pak ngiùn.",
+      "english": "This one costs two hundred dollars."
+    },
+    "note": "Like Mandarin 兩 vs 二, Hakka uses 两 (ngiông) instead of 二 (ngi) when counting things or amounts of money, while 二 is used for reading out numerals themselves (e.g. telephone numbers, page 2)."
   }
 ]
