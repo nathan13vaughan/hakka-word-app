@@ -478,5 +478,21 @@
       "english": "Good morning, have you eaten yet?"
     },
     "note": "Hakka speakers often greet each other by asking whether they've eaten rather than just saying 'good morning' — the greeting 早晨 is common but pairing it with 食飽咹無 (have you eaten?) is a warm, traditional way to show care."
+  },
+  {
+    "date": "2026-09-02",
+    "generatedAt": "2026-09-01T22:57:58.266Z",
+    "hanzi": "茶",
+    "romanization": "chhà",
+    "pronunciation": "chah (like 'cha' in 'chai', falling tone)",
+    "pos": "noun",
+    "meaning": "tea",
+    "mandarin": "茶 (chá)",
+    "example": {
+      "hakka": "𠊎鍾意食茶。",
+      "romanization": "Ngài chung-yi sṳ̍t chhà.",
+      "english": "I like drinking tea."
+    },
+    "note": "In Hakka, drinking tea uses the verb 食 (sṳ̍t, 'to eat') rather than 'drink' — the same verb used for eating rice or a meal, reflecting how central tea-drinking is treated as a meal-like activity in Hakka culture."
   }
 ]
