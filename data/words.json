@@ -494,5 +494,21 @@
       "english": "I like drinking tea."
     },
     "note": "In Hakka, drinking tea uses the verb 食 (sṳ̍t, 'to eat') rather than 'drink' — the same verb used for eating rice or a meal, reflecting how central tea-drinking is treated as a meal-like activity in Hakka culture."
+  },
+  {
+    "date": "2026-09-03",
+    "generatedAt": "2026-09-02T22:58:11.602Z",
+    "hanzi": "狗",
+    "romanization": "kiéu",
+    "pronunciation": "kyoh (rhymes with 'yo', rising pitch)",
+    "pos": "noun",
+    "meaning": "dog",
+    "mandarin": "狗 (gǒu)",
+    "example": {
+      "hakka": "厓屋下有一隻狗。",
+      "romanization": "Ngài vuk-hà yû yit chak kiéu.",
+      "english": "There is a dog at my house."
+    },
+    "note": "Notice the sound shift: many Mandarin '-ou' finals correspond to Hakka '-eu'/'-ieu' (狗 gǒu → kiéu, 走 zǒu → chéu), a handy pattern for guessing new words. The measure word 隻 (chak) is used for animals, just like Mandarin 隻/只."
   }
 ]
