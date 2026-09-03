@@ -510,5 +510,21 @@
       "english": "There is a dog at my house."
     },
     "note": "Notice the sound shift: many Mandarin '-ou' finals correspond to Hakka '-eu'/'-ieu' (狗 gǒu → kiéu, 走 zǒu → chéu), a handy pattern for guessing new words. The measure word 隻 (chak) is used for animals, just like Mandarin 隻/只."
+  },
+  {
+    "date": "2026-09-04",
+    "generatedAt": "2026-09-03T22:58:15.974Z",
+    "hanzi": "耕田",
+    "romanization": "kâng-tiàn",
+    "pronunciation": "gahng-dee-en (rising tone on 'gahng', falling tone on 'dee-en')",
+    "pos": "verb",
+    "meaning": "to farm; to till/cultivate the fields",
+    "mandarin": "種田 / 耕田 (zhòngtián / gēngtián)",
+    "example": {
+      "hakka": "阿公在鄉下耕田。",
+      "romanization": "Â-kûng chhai hiông-ha kâng-tiàn.",
+      "english": "Grandpa farms in the countryside."
+    },
+    "note": "Hakka communities in Taiwan historically settled hilly, less fertile land, so 耕田 carries a strong cultural association with the hardworking Hakka farming identity, often linked to the spirit of 硬頸 (stubborn/tenacious)."
   }
 ]
