@@ -526,5 +526,21 @@
       "english": "Grandpa farms in the countryside."
     },
     "note": "Hakka communities in Taiwan historically settled hilly, less fertile land, so 耕田 carries a strong cultural association with the hardworking Hakka farming identity, often linked to the spirit of 硬頸 (stubborn/tenacious)."
+  },
+  {
+    "date": "2026-09-05",
+    "generatedAt": "2026-09-04T22:44:50.371Z",
+    "hanzi": "圓",
+    "romanization": "yèn",
+    "pronunciation": "yen (rising-ish tone, like 'yen' in Japanese currency but softer)",
+    "pos": "adjective",
+    "meaning": "round; circular",
+    "mandarin": "圓 (yuán)",
+    "example": {
+      "hakka": "月光又大又圓。",
+      "romanization": "Ngie̍t-kông yu thai yu yèn.",
+      "english": "The moon is big and round."
+    },
+    "note": "圓 also appears in everyday words like 圓形 (yèn-hìn, 'round shape') and 湯圓 (thông-yèn, glutinous rice balls), so learning this one word unlocks several others."
   }
 ]
