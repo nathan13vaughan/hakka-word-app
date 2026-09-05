@@ -542,5 +542,21 @@
       "english": "The moon is big and round."
     },
     "note": "圓 also appears in everyday words like 圓形 (yèn-hìn, 'round shape') and 湯圓 (thông-yèn, glutinous rice balls), so learning this one word unlocks several others."
+  },
+  {
+    "date": "2026-09-06",
+    "generatedAt": "2026-09-05T22:37:12.286Z",
+    "hanzi": "豬",
+    "romanization": "chû",
+    "pronunciation": "choo (rising-ish mid tone, like 'chew' but shorter)",
+    "pos": "noun",
+    "meaning": "pig",
+    "mandarin": "豬 (zhū)",
+    "example": {
+      "hakka": "厥屋下有兩隻豬。",
+      "romanization": "Kiâ vuk-hâ yû liông chak chû.",
+      "english": "There are two pigs at his house."
+    },
+    "note": "豬 is a key part of many Hakka idioms about luck and prosperity (e.g. raising pigs was historically central to Hakka farm life), and the classifier used with it is 隻 (chak), the same one used for many animals."
   }
 ]
