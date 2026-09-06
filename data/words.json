@@ -558,5 +558,21 @@
       "english": "There are two pigs at his house."
     },
     "note": "豬 is a key part of many Hakka idioms about luck and prosperity (e.g. raising pigs was historically central to Hakka farm life), and the classifier used with it is 隻 (chak), the same one used for many animals."
+  },
+  {
+    "date": "2026-09-07",
+    "generatedAt": "2026-09-06T22:39:03.234Z",
+    "hanzi": "貓",
+    "romanization": "meau",
+    "pronunciation": "meh-oo (rhymes roughly with 'meow')",
+    "pos": "noun",
+    "meaning": "cat",
+    "mandarin": "貓 (māo)",
+    "example": {
+      "hakka": "该隻貓在眠床項睡目。",
+      "romanization": "Ke chak meau chhai min-chhong hong soi-muk.",
+      "english": "That cat is sleeping on the bed."
+    },
+    "note": "The PFS spelling 'meau' closely mimics the animal's sound, similar to Mandarin's onomatopoeic 貓 (māo)."
   }
 ]
