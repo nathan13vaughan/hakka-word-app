@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-06T22:39:03.234Z",
-  "hanzi": "貓",
-  "romanization": "meau",
-  "pronunciation": "meh-oo (rhymes roughly with 'meow')",
-  "pos": "noun",
-  "meaning": "cat",
-  "mandarin": "貓 (māo)",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-07T23:15:33.208Z",
+  "hanzi": "大",
+  "romanization": "thai",
+  "pronunciation": "tie (like 'tie' but with a soft 'th' as in 'this')",
+  "pos": "adjective",
+  "meaning": "big; large",
+  "mandarin": "大 (dà)",
   "example": {
-    "hakka": "该隻貓在眠床項睡目。",
-    "romanization": "Ke chak meau chhai min-chhong hong soi-muk.",
-    "english": "That cat is sleeping on the bed."
+    "hakka": "這隻屋恁大。",
+    "romanization": "Liá-chak vuk án thai.",
+    "english": "This house is so big."
   },
-  "note": "The PFS spelling 'meau' closely mimics the animal's sound, similar to Mandarin's onomatopoeic 貓 (māo)."
+  "note": "大 also shows up in common compounds like 大人 (thai-ngin, \"adult\") and 大細 (thai-se, \"size,\" literally \"big-small\"), so learning it unlocks several other useful words."
 }

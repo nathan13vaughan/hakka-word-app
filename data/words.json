@@ -574,5 +574,21 @@
       "english": "That cat is sleeping on the bed."
     },
     "note": "The PFS spelling 'meau' closely mimics the animal's sound, similar to Mandarin's onomatopoeic 貓 (māo)."
+  },
+  {
+    "date": "2026-09-08",
+    "generatedAt": "2026-09-07T23:15:33.208Z",
+    "hanzi": "大",
+    "romanization": "thai",
+    "pronunciation": "tie (like 'tie' but with a soft 'th' as in 'this')",
+    "pos": "adjective",
+    "meaning": "big; large",
+    "mandarin": "大 (dà)",
+    "example": {
+      "hakka": "這隻屋恁大。",
+      "romanization": "Liá-chak vuk án thai.",
+      "english": "This house is so big."
+    },
+    "note": "大 also shows up in common compounds like 大人 (thai-ngin, \"adult\") and 大細 (thai-se, \"size,\" literally \"big-small\"), so learning it unlocks several other useful words."
   }
 ]
