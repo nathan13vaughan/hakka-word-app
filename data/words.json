@@ -590,5 +590,21 @@
       "english": "This house is so big."
     },
     "note": "大 also shows up in common compounds like 大人 (thai-ngin, \"adult\") and 大細 (thai-se, \"size,\" literally \"big-small\"), so learning it unlocks several other useful words."
+  },
+  {
+    "date": "2026-09-09",
+    "generatedAt": "2026-09-08T23:08:31.891Z",
+    "hanzi": "泡茶",
+    "romanization": "phau chhà",
+    "pronunciation": "pow chah",
+    "pos": "verb",
+    "meaning": "to make/brew tea (often implying the social act of serving and drinking tea together)",
+    "mandarin": "泡茶 (pào chá)",
+    "example": {
+      "hakka": "阿公在屋家泡茶,等朋友來坐。",
+      "romanization": "Â-kûng chhai vuk-khâ phau chhà, tén phèn-yù lòi tsho.",
+      "english": "Grandpa is making tea at home, waiting for friends to come sit."
+    },
+    "note": "泡茶 in Hakka culture often refers to a whole social ritual — sitting, chatting, and refilling small cups repeatedly — not just the act of brewing; inviting someone to '泡茶' is a common way to invite them to visit and chat."
   }
 ]
