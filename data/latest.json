@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-08T23:08:31.891Z",
-  "hanzi": "泡茶",
-  "romanization": "phau chhà",
-  "pronunciation": "pow chah",
-  "pos": "verb",
-  "meaning": "to make/brew tea (often implying the social act of serving and drinking tea together)",
-  "mandarin": "泡茶 (pào chá)",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T22:53:04.685Z",
+  "hanzi": "下畫",
+  "romanization": "hâ-chu",
+  "pronunciation": "ha-JOO (ha as in 'hah', joo rhymes with 'zoo')",
+  "pos": "noun",
+  "meaning": "afternoon",
+  "mandarin": "下午 (xiàwǔ)",
   "example": {
-    "hakka": "阿公在屋家泡茶,等朋友來坐。",
-    "romanization": "Â-kûng chhai vuk-khâ phau chhà, tén phèn-yù lòi tsho.",
-    "english": "Grandpa is making tea at home, waiting for friends to come sit."
+    "hakka": "𠊎下畫愛去市場買菜。",
+    "romanization": "Ngài hâ-chu oi hi sṳ-chhòng mâi-chhoi.",
+    "english": "I'm going to the market this afternoon to buy vegetables."
   },
-  "note": "泡茶 in Hakka culture often refers to a whole social ritual — sitting, chatting, and refilling small cups repeatedly — not just the act of brewing; inviting someone to '泡茶' is a common way to invite them to visit and chat."
+  "note": "下畫 literally means 'below the daytime', splitting the day the way Hakka traditionally does around the midday meal rather than the 12-hour clock; some speakers also say 下晝 with the same pronunciation."
 }
