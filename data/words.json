@@ -622,5 +622,21 @@
       "english": "I'm going to the market this afternoon to buy vegetables."
     },
     "note": "下畫 literally means 'below the daytime', splitting the day the way Hakka traditionally does around the midday meal rather than the 12-hour clock; some speakers also say 下晝 with the same pronunciation."
+  },
+  {
+    "date": "2026-09-11",
+    "generatedAt": "2026-09-10T22:54:41.196Z",
+    "hanzi": "飛機",
+    "romanization": "fî-kî",
+    "pronunciation": "fee-gee",
+    "pos": "noun",
+    "meaning": "airplane",
+    "mandarin": "飛機 (fēijī)",
+    "example": {
+      "hakka": "𠊎愛坐飛機去臺北。",
+      "romanization": "Ngài oi chho fî-kî hi Thòi-pet.",
+      "english": "I want to take a plane to Taipei."
+    },
+    "note": "In Sixian, 機 is pronounced kî (not gī like Mandarin jī) — a good reminder that Hakka kept an older velar initial where Mandarin later palatalized it."
   }
 ]
