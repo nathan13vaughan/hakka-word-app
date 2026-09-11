@@ -638,5 +638,21 @@
       "english": "I want to take a plane to Taipei."
     },
     "note": "In Sixian, 機 is pronounced kî (not gī like Mandarin jī) — a good reminder that Hakka kept an older velar initial where Mandarin later palatalized it."
+  },
+  {
+    "date": "2026-09-12",
+    "generatedAt": "2026-09-11T22:56:52.643Z",
+    "hanzi": "路",
+    "romanization": "lu",
+    "pronunciation": "loo (low tone, like saying 'lu' with a dip in pitch)",
+    "pos": "noun",
+    "meaning": "road; way; path",
+    "mandarin": "路 (lù)",
+    "example": {
+      "hakka": "這條路好行無？",
+      "romanization": "Liá thiàu lu hó hàng mò?",
+      "english": "Is this road easy to walk/travel on?"
+    },
+    "note": "路 shows up in many compound travel words like 路口 (lu-héu, intersection) and 迷路 (mì-lu, to get lost), so learning it early unlocks a lot of direction-related vocabulary."
   }
 ]
