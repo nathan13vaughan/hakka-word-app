@@ -1,16 +1,113 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-11T22:56:52.643Z",
-  "hanzi": "路",
-  "romanization": "lu",
-  "pronunciation": "loo (low tone, like saying 'lu' with a dip in pitch)",
-  "pos": "noun",
-  "meaning": "road; way; path",
-  "mandarin": "路 (lù)",
-  "example": {
-    "hakka": "這條路好行無？",
-    "romanization": "Liá thiàu lu hó hàng mò?",
-    "english": "Is this road easy to walk/travel on?"
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T22:48:07.508Z",
+  "duration_api_ms": 4687,
+  "stop_reason": "end_turn",
+  "session_id": "5caf3669-6fb4-48de-aacb-0996e24bc8b7",
+  "total_cost_usd": 0.046491199999999996,
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 9785,
+    "cache_read_input_tokens": 18531,
+    "output_tokens": 211,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9785,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 211,
+        "cache_read_input_tokens": 18531,
+        "cache_creation_input_tokens": 9785,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 9785
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard"
   },
-  "note": "路 shows up in many compound travel words like 路口 (lu-héu, intersection) and 迷路 (mì-lu, to get lost), so learning it early unlocks a lot of direction-related vocabulary."
+  "modelUsage": {
+    "claude-haiku-4-5-20251001": {
+      "inputTokens": 1451,
+      "outputTokens": 16,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 0,
+      "webSearchRequests": 0,
+      "costUSD": 0.001531,
+      "contextWindow": 200000,
+      "maxOutputTokens": 32000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-haiku-4-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    },
+    "claude-sonnet-5": {
+      "inputTokens": 2,
+      "outputTokens": 211,
+      "cacheReadInputTokens": 18531,
+      "cacheCreationInputTokens": 9785,
+      "webSearchRequests": 0,
+      "costUSD": 0.0449602,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "is_error": false,
+  "num_turns": 1,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "{\n  \"hanzi\": \"做事\",\n  \"romanization\": \"cho ss\",\n  \"pronunciation\": \"chaw sih\",\n  \"pos\": \"verb\",\n  \"meaning\": \"to work; to have a job\",\n  \"mandarin\": \"工作 (gōngzuò)\",\n  \"example\": { \"hakka\": \"佢在台北做事。\", \"romanization\": \"Gi̊ chai Thoi-pet cho ss.\", \"english\": \"He works in Taipei.\" },\n  \"note\": \"Literally 'to do things,' this is the everyday Hakka way to say 'to work/have a job,' much more common in casual speech than a borrowed term like 工作.\"",
+  "ttft_ms": 4075,
+  "type": "result",
+  "duration_ms": 4110,
+  "uuid": "f76fdb76-2905-479c-8598-b239828562b8",
+  "ttft_stream_ms": 1232,
+  "time_to_request_ms": 93,
+  "first_content_frame_ms": 1232,
+  "queued_turn_count": 0,
+  "result_index": 0
 }
