@@ -783,5 +783,21 @@
       "english": "Turn left up ahead."
     },
     "note": "斡 is the go-to verb for giving turn-by-turn directions in Sixian Hakka, paired with 左手邊 (left side) or 右手邊 (right side) rather than Mandarin-style 左轉/右轉 constructions."
+  },
+  {
+    "date": "2026-09-15",
+    "generatedAt": "2026-09-14T23:40:49.555Z",
+    "hanzi": "燒茶",
+    "romanization": "sêu-chhà",
+    "pronunciation": "SEH-oo chah",
+    "pos": "noun",
+    "meaning": "hot tea",
+    "mandarin": "熱茶 (rè chá)",
+    "example": {
+      "hakka": "天光恅著寒,啉燒茶較好。",
+      "romanization": "Thiên-kông lâu-chho̍k hòn, lîm sêu-chhà kha-hó.",
+      "english": "It's cold this morning, it's better to drink hot tea."
+    },
+    "note": "燒 (sêu) means \"hot/burning\" in Hakka, distinct from Mandarin's 熱 (rè) — pairing it with 茶 is a very natural everyday collocation, often contrasted with 冷茶 (lâng-chhà, \"cold tea\")."
   }
 ]
