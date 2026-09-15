@@ -799,5 +799,21 @@
       "english": "It's cold this morning, it's better to drink hot tea."
     },
     "note": "燒 (sêu) means \"hot/burning\" in Hakka, distinct from Mandarin's 熱 (rè) — pairing it with 茶 is a very natural everyday collocation, often contrasted with 冷茶 (lâng-chhà, \"cold tea\")."
+  },
+  {
+    "date": "2026-09-16",
+    "generatedAt": "2026-09-15T23:22:49.071Z",
+    "hanzi": "轉去",
+    "romanization": "chón-hi",
+    "pronunciation": "jon-hee",
+    "pos": "verb",
+    "meaning": "to go back / to return (home or to a place)",
+    "mandarin": "回去 (huí qù)",
+    "example": {
+      "hakka": "𠊎兜愛轉去屋下矣。",
+      "romanization": "Ngài-têu oi chón-hi vuk-kâ é.",
+      "english": "We need to go back home now."
+    },
+    "note": "轉 (chón) literally means 'to turn/return' and is used constantly in daily Hakka speech, not just for travel — e.g. 轉學校 (go back to school), 轉屋下 (go home)."
   }
 ]

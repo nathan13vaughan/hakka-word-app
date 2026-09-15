@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-14T23:40:49.555Z",
-  "hanzi": "燒茶",
-  "romanization": "sêu-chhà",
-  "pronunciation": "SEH-oo chah",
-  "pos": "noun",
-  "meaning": "hot tea",
-  "mandarin": "熱茶 (rè chá)",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-15T23:22:49.071Z",
+  "hanzi": "轉去",
+  "romanization": "chón-hi",
+  "pronunciation": "jon-hee",
+  "pos": "verb",
+  "meaning": "to go back / to return (home or to a place)",
+  "mandarin": "回去 (huí qù)",
   "example": {
-    "hakka": "天光恅著寒,啉燒茶較好。",
-    "romanization": "Thiên-kông lâu-chho̍k hòn, lîm sêu-chhà kha-hó.",
-    "english": "It's cold this morning, it's better to drink hot tea."
+    "hakka": "𠊎兜愛轉去屋下矣。",
+    "romanization": "Ngài-têu oi chón-hi vuk-kâ é.",
+    "english": "We need to go back home now."
   },
-  "note": "燒 (sêu) means \"hot/burning\" in Hakka, distinct from Mandarin's 熱 (rè) — pairing it with 茶 is a very natural everyday collocation, often contrasted with 冷茶 (lâng-chhà, \"cold tea\")."
+  "note": "轉 (chón) literally means 'to turn/return' and is used constantly in daily Hakka speech, not just for travel — e.g. 轉學校 (go back to school), 轉屋下 (go home)."
 }
