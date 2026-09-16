@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-15T23:22:49.071Z",
-  "hanzi": "轉去",
-  "romanization": "chón-hi",
-  "pronunciation": "jon-hee",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-16T23:30:19.210Z",
+  "hanzi": "飲茶",
+  "romanization": "yím-chhà",
+  "pronunciation": "yim (like 'yim' rhyming with 'him') + cha (like 'cha' in 'chat')",
   "pos": "verb",
-  "meaning": "to go back / to return (home or to a place)",
-  "mandarin": "回去 (huí qù)",
+  "meaning": "to drink tea (also refers to the social custom of gathering to drink tea and chat)",
+  "mandarin": "喝茶 (hē chá)",
   "example": {
-    "hakka": "𠊎兜愛轉去屋下矣。",
-    "romanization": "Ngài-têu oi chón-hi vuk-kâ é.",
-    "english": "We need to go back home now."
+    "hakka": "𠊎兜暗晡頭去飲茶,講一下閒話。",
+    "romanization": "Ngài-têu am-pu-thèu hi yím-chhà, kóng yit-ha hàn-fa.",
+    "english": "We're going to drink tea this evening and chat for a while."
   },
-  "note": "轉 (chón) literally means 'to turn/return' and is used constantly in daily Hakka speech, not just for travel — e.g. 轉學校 (go back to school), 轉屋下 (go home)."
+  "note": "飲 (yím) is the everyday Hakka word for 'drink,' distinct from Mandarin's 喝 (hē) — Hakka closely preserves this older literary Chinese verb. 飲茶 also carries the same cultural sense as in Cantonese, referring to relaxed social tea-drinking, not just the physical act."
 }
