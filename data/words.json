@@ -831,5 +831,21 @@
       "english": "We're going to drink tea this evening and chat for a while."
     },
     "note": "飲 (yím) is the everyday Hakka word for 'drink,' distinct from Mandarin's 喝 (hē) — Hakka closely preserves this older literary Chinese verb. 飲茶 also carries the same cultural sense as in Cantonese, referring to relaxed social tea-drinking, not just the physical act."
+  },
+  {
+    "date": "2026-09-18",
+    "generatedAt": "2026-09-17T23:20:57.947Z",
+    "hanzi": "行嫁",
+    "romanization": "hàng-ka",
+    "pronunciation": "hahng-gah",
+    "pos": "verb",
+    "meaning": "to visit relatives (esp. a married daughter returning to her natal home, or general visiting/socializing among kin)",
+    "mandarin": "走親戚 (zǒu qīnqi)",
+    "example": {
+      "hakka": "禮拜六𠊎愛去阿婆該行嫁。",
+      "romanization": "Lî-pai-liuk ngài oi hi â-phò kâi hàng-ka.",
+      "english": "On Saturday I'm going to visit relatives at Grandma's place."
+    },
+    "note": "Traditionally this referred specifically to a married-out daughter visiting her birth family, a valued social custom in Hakka villages; today it's used more loosely for visiting relatives or friends in general."
   }
 ]
