@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-17T23:20:57.947Z",
-  "hanzi": "行嫁",
-  "romanization": "hàng-ka",
-  "pronunciation": "hahng-gah",
-  "pos": "verb",
-  "meaning": "to visit relatives (esp. a married daughter returning to her natal home, or general visiting/socializing among kin)",
-  "mandarin": "走親戚 (zǒu qīnqi)",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-18T22:58:24.152Z",
+  "hanzi": "門",
+  "romanization": "mùn",
+  "pronunciation": "moon (rising-low tone, like 'moon' but shorter)",
+  "pos": "noun",
+  "meaning": "door; gate",
+  "mandarin": "門 (mén)",
   "example": {
-    "hakka": "禮拜六𠊎愛去阿婆該行嫁。",
-    "romanization": "Lî-pai-liuk ngài oi hi â-phò kâi hàng-ka.",
-    "english": "On Saturday I'm going to visit relatives at Grandma's place."
+    "hakka": "分涯開門。",
+    "romanization": "Pûn ngài khôi mùn.",
+    "english": "Let me open the door."
   },
-  "note": "Traditionally this referred specifically to a married-out daughter visiting her birth family, a valued social custom in Hakka villages; today it's used more loosely for visiting relatives or friends in general."
+  "note": "門 also shows up in compound words like 門口 (mùn-héu, doorway/entrance), so learning it early pays off across many household terms."
 }
