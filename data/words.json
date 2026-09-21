@@ -879,5 +879,21 @@
       "english": "At New Year we need to go worship at the temple."
     },
     "note": "拜拜 is used constantly around Taiwanese festivals — for ancestor worship, temple visits, or even just thanking household gods before a meal; the doubled syllable softens it into a routine, everyday-sounding act rather than a solemn ritual."
+  },
+  {
+    "date": "2026-09-22",
+    "generatedAt": "2026-09-21T23:47:18.147Z",
+    "hanzi": "桌",
+    "romanization": "chok",
+    "pronunciation": "chok (like 'chalk' without the 'l')",
+    "pos": "noun",
+    "meaning": "table; desk",
+    "mandarin": "桌子 (zhuōzi)",
+    "example": {
+      "hakka": "菜放核桌顶。",
+      "romanization": "Coi piong hé chok-táng.",
+      "english": "Put the dishes on the table."
+    },
+    "note": "桌 often combines into 桌頂 (chok-táng), literally 'table-top,' the everyday way to say 'on the table' rather than using a separate preposition."
   }
 ]
