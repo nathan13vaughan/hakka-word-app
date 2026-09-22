@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-21T23:47:18.147Z",
-  "hanzi": "桌",
-  "romanization": "chok",
-  "pronunciation": "chok (like 'chalk' without the 'l')",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-22T23:26:46.672Z",
+  "hanzi": "阿姆",
+  "romanization": "â-me̊",
+  "pronunciation": "ah-muh (first syllable like 'ah', second like 'muh' with a light falling-rising tone)",
   "pos": "noun",
-  "meaning": "table; desk",
-  "mandarin": "桌子 (zhuōzi)",
+  "meaning": "mother",
+  "mandarin": "媽媽 (māma)",
   "example": {
-    "hakka": "菜放核桌顶。",
-    "romanization": "Coi piong hé chok-táng.",
-    "english": "Put the dishes on the table."
+    "hakka": "阿姆在屋家炒菜。",
+    "romanization": "Â-me̊ chhai vuk-kâ chhá-tshoi.",
+    "english": "Mom is stir-frying vegetables at home."
   },
-  "note": "桌 often combines into 桌頂 (chok-táng), literally 'table-top,' the everyday way to say 'on the table' rather than using a separate preposition."
+  "note": "阿姆 is the everyday term for 'mother' in Sixian Hakka; some families also say 阿嬤 for grandmother, so listen carefully to context to avoid mixing them up."
 }
