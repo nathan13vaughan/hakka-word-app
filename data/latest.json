@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-22T23:26:46.672Z",
-  "hanzi": "阿姆",
-  "romanization": "â-me̊",
-  "pronunciation": "ah-muh (first syllable like 'ah', second like 'muh' with a light falling-rising tone)",
-  "pos": "noun",
-  "meaning": "mother",
-  "mandarin": "媽媽 (māma)",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T23:24:42.134Z",
+  "hanzi": "紅",
+  "romanization": "fùng",
+  "pronunciation": "foong (falling-rising tone, like 'foong' said with a dip then rise)",
+  "pos": "adjective",
+  "meaning": "red",
+  "mandarin": "紅 (hóng)",
   "example": {
-    "hakka": "阿姆在屋家炒菜。",
-    "romanization": "Â-me̊ chhai vuk-kâ chhá-tshoi.",
-    "english": "Mom is stir-frying vegetables at home."
+    "hakka": "佢著紅色个衫。",
+    "romanization": "Kì chok fùng-set kâ sâm.",
+    "english": "He/She is wearing red-colored clothes."
   },
-  "note": "阿姆 is the everyday term for 'mother' in Sixian Hakka; some families also say 阿嬤 for grandmother, so listen carefully to context to avoid mixing them up."
+  "note": "紅 is used both as a standalone color word and as a prefix in compounds like 紅色 (fùng-set, 'red color'); note it already appeared in 紅包 (which the learner knows) but not as a standalone color adjective."
 }
