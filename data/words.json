@@ -927,5 +927,21 @@
       "english": "He/She is wearing red-colored clothes."
     },
     "note": "紅 is used both as a standalone color word and as a prefix in compounds like 紅色 (fùng-set, 'red color'); note it already appeared in 紅包 (which the learner knows) but not as a standalone color adjective."
+  },
+  {
+    "date": "2026-09-25",
+    "generatedAt": "2026-09-24T23:44:01.898Z",
+    "hanzi": "番豆",
+    "romanization": "fân-thèu",
+    "pronunciation": "fahn-tuh-oo (fahn rhymes with 'John', thèu like 'tuh-oh')",
+    "pos": "noun",
+    "meaning": "peanut",
+    "mandarin": "花生 (huāshēng)",
+    "example": {
+      "hakka": "阿姆炒番豆分𠊎食。",
+      "romanization": "Â-mê chhàu fân-thèu pûn ngài sṳ̍t.",
+      "english": "Mom fried peanuts for me to eat."
+    },
+    "note": "番豆 literally means 'foreign bean' — many Hakka food terms use 番 (fân) for New World crops introduced from abroad, similar to 番茄 for tomato."
   }
 ]
