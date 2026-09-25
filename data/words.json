@@ -943,5 +943,21 @@
       "english": "Mom fried peanuts for me to eat."
     },
     "note": "番豆 literally means 'foreign bean' — many Hakka food terms use 番 (fân) for New World crops introduced from abroad, similar to 番茄 for tomato."
+  },
+  {
+    "date": "2026-09-26",
+    "generatedAt": "2026-09-25T23:45:51.606Z",
+    "hanzi": "阿爸",
+    "romanization": "â-pâ",
+    "pronunciation": "ah-BAH",
+    "pos": "noun",
+    "meaning": "father, dad",
+    "mandarin": "爸爸 (bàba)",
+    "example": {
+      "hakka": "阿爸在屋家。",
+      "romanization": "Â-pâ chhôi vuk-kâ.",
+      "english": "Dad is at home."
+    },
+    "note": "Paired naturally with 阿姆 (mother) as the everyday term of address; young children often say it before almost any other word."
   }
 ]
