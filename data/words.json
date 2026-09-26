@@ -959,5 +959,21 @@
       "english": "Dad is at home."
     },
     "note": "Paired naturally with 阿姆 (mother) as the everyday term of address; young children often say it before almost any other word."
+  },
+  {
+    "date": "2026-09-27",
+    "generatedAt": "2026-09-26T23:21:24.348Z",
+    "hanzi": "讀書",
+    "romanization": "thu̍k-sû",
+    "pronunciation": "took-shoo",
+    "pos": "verb",
+    "meaning": "to study; to read (books); to attend school",
+    "mandarin": "讀書 (dú shū)",
+    "example": {
+      "hakka": "佢在學校讀書。",
+      "romanization": "Kì chhai ho̍k-hau thu̍k-sû.",
+      "english": "He is studying at school."
+    },
+    "note": "In Hakka as in Mandarin, 讀書 broadly means 'to study/attend school,' not just literally reading a book — asking a kid 讀書讀到㖠久 means 'how far did you get in school,' not 'how much did you read.'"
   }
 ]
