@@ -975,5 +975,21 @@
       "english": "He is studying at school."
     },
     "note": "In Hakka as in Mandarin, 讀書 broadly means 'to study/attend school,' not just literally reading a book — asking a kid 讀書讀到㖠久 means 'how far did you get in school,' not 'how much did you read.'"
+  },
+  {
+    "date": "2026-09-28",
+    "generatedAt": "2026-09-27T23:34:48.655Z",
+    "hanzi": "發燒",
+    "romanization": "pot-sêu",
+    "pronunciation": "poht-show (poht rhymes with 'pot', show like 'show')",
+    "pos": "verb",
+    "meaning": "to have a fever",
+    "mandarin": "發燒 (fāshāo)",
+    "example": {
+      "hakka": "佢發燒,愛去看醫生。",
+      "romanization": "Kì pot-sêu, oi hi khon yî-sên.",
+      "english": "He has a fever, he needs to go see a doctor."
+    },
+    "note": "發 (pot) here keeps a colloquial reading close to its literary root, distinct from how it appears in some compound words; 燒 (sêu) is the same character used for 'to burn/cook', so the word literally means 'burning up'."
   }
 ]
