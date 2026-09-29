@@ -991,5 +991,21 @@
       "english": "He has a fever, he needs to go see a doctor."
     },
     "note": "發 (pot) here keeps a colloquial reading close to its literary root, distinct from how it appears in some compound words; 燒 (sêu) is the same character used for 'to burn/cook', so the word literally means 'burning up'."
+  },
+  {
+    "date": "2026-09-29",
+    "generatedAt": "2026-09-29T00:47:50.653Z",
+    "hanzi": "過年",
+    "romanization": "kwo-ngien",
+    "pronunciation": "gwoh nyen (both with a falling-to-mid tone)",
+    "pos": "verb / noun",
+    "meaning": "to celebrate the Lunar New Year; the New Year festival",
+    "mandarin": "過年 (guò nián)",
+    "example": {
+      "hakka": "過年个時節,規家人都轉來食團圓飯。",
+      "romanization": "Kwo-ngien ke sṳ̀-chiet, kuî-ka-ngìn tû chón-lòi sṳ̍t thòn-ién-fan.",
+      "english": "At New Year, the whole family comes home to eat the reunion dinner."
+    },
+    "note": "過年 is the biggest Hakka festival, and traditional preparations include making sweet rice cakes (甜粄) and turnip cakes (菜頭粄) to offer to the ancestors. In Hakka, 年 is pronounced ngièn, with the initial ng-, unlike Mandarin nián."
   }
 ]
