@@ -1007,5 +1007,21 @@
       "english": "At New Year, the whole family comes home to eat the reunion dinner."
     },
     "note": "過年 is the biggest Hakka festival, and traditional preparations include making sweet rice cakes (甜粄) and turnip cakes (菜頭粄) to offer to the ancestors. In Hakka, 年 is pronounced ngièn, with the initial ng-, unlike Mandarin nián."
+  },
+  {
+    "date": "2026-09-30",
+    "generatedAt": "2026-09-30T00:02:29.486Z",
+    "hanzi": "同下",
+    "romanization": "tùng-ha",
+    "pronunciation": "toong-hah",
+    "pos": "adverb",
+    "meaning": "together; at the same time",
+    "mandarin": "一起 (yīqǐ)",
+    "example": {
+      "hakka": "放假嗰時,偃等同下去看朋友。",
+      "romanization": "fong-kà-ke sṳ̀, ngài-nèn tùng-ha hi kon phàng-yû.",
+      "english": "During the holiday, let's go visit friends together."
+    },
+    "note": "同下 is the everyday way to say 'together' in Sixian and is handy for inviting people to join in, as in '同下食飯' (eat together). It is often paired with 同 (tùng, 'with') to name the person: '同阿哥同下去'."
   }
 ]
