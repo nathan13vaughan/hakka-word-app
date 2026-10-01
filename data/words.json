@@ -1023,5 +1023,21 @@
       "english": "During the holiday, let's go visit friends together."
     },
     "note": "同下 is the everyday way to say 'together' in Sixian and is handy for inviting people to join in, as in '同下食飯' (eat together). It is often paired with 同 (tùng, 'with') to name the person: '同阿哥同下去'."
+  },
+  {
+    "date": "2026-10-01",
+    "generatedAt": "2026-10-01T00:19:24.860Z",
+    "hanzi": "醫院",
+    "romanization": "yî-yen",
+    "pronunciation": "ee-yen (first syllable with a high-falling tone)",
+    "pos": "noun",
+    "meaning": "hospital",
+    "mandarin": "醫院 (yīyuàn)",
+    "example": {
+      "hakka": "阿婆在醫院看醫生。",
+      "romanization": "A-phò ti yî-yen khon yî-sen.",
+      "english": "Grandma is seeing the doctor at the hospital."
+    },
+    "note": "In Sixian Hakka the second syllable 院 is read yen, not the Mandarin yuàn. A clinic or small doctor's office is often called 診所 (chṳ̂n-sò)."
   }
 ]

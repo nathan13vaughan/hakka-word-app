@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-30",
-  "generatedAt": "2026-09-30T00:02:29.486Z",
-  "hanzi": "同下",
-  "romanization": "tùng-ha",
-  "pronunciation": "toong-hah",
-  "pos": "adverb",
-  "meaning": "together; at the same time",
-  "mandarin": "一起 (yīqǐ)",
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T00:19:24.860Z",
+  "hanzi": "醫院",
+  "romanization": "yî-yen",
+  "pronunciation": "ee-yen (first syllable with a high-falling tone)",
+  "pos": "noun",
+  "meaning": "hospital",
+  "mandarin": "醫院 (yīyuàn)",
   "example": {
-    "hakka": "放假嗰時,偃等同下去看朋友。",
-    "romanization": "fong-kà-ke sṳ̀, ngài-nèn tùng-ha hi kon phàng-yû.",
-    "english": "During the holiday, let's go visit friends together."
+    "hakka": "阿婆在醫院看醫生。",
+    "romanization": "A-phò ti yî-yen khon yî-sen.",
+    "english": "Grandma is seeing the doctor at the hospital."
   },
-  "note": "同下 is the everyday way to say 'together' in Sixian and is handy for inviting people to join in, as in '同下食飯' (eat together). It is often paired with 同 (tùng, 'with') to name the person: '同阿哥同下去'."
+  "note": "In Sixian Hakka the second syllable 院 is read yen, not the Mandarin yuàn. A clinic or small doctor's office is often called 診所 (chṳ̂n-sò)."
 }
