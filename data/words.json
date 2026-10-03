@@ -1039,5 +1039,21 @@
       "english": "Grandma is seeing the doctor at the hospital."
     },
     "note": "In Sixian Hakka the second syllable 院 is read yen, not the Mandarin yuàn. A clinic or small doctor's office is often called 診所 (chṳ̂n-sò)."
+  },
+  {
+    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T00:06:44.245Z",
+    "hanzi": "快",
+    "romanization": "khai",
+    "pronunciation": "kai (like 'kite' without the 't', with a breath of 'k')",
+    "pos": "adjective",
+    "meaning": "fast, quick; also sharp (of a blade) or happy",
+    "mandarin": "快 (kuài)",
+    "example": {
+      "hakka": "你行恁快,等我一下。",
+      "romanization": "ngì hâng ten khai, tén ngài yit-ha.",
+      "english": "You walk so fast, wait for me a moment."
+    },
+    "note": "In Sixian Hakka 快 is pronounced khai (not the Mandarin kuài), and it is also used to describe a sharp knife (刀仔當快). Hakka speakers also say 緊 (kín) after a verb for 'hurry up'."
   }
 ]
