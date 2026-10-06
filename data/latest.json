@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-04",
-  "generatedAt": "2026-10-03T23:29:23.868Z",
-  "hanzi": "買",
-  "romanization": "mâi",
-  "pronunciation": "mai (rhymes with 'my', with a falling tone)",
-  "pos": "verb",
-  "meaning": "to buy; to purchase",
-  "mandarin": "買 (mǎi)",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T01:38:35.733Z",
+  "hanzi": "做工",
+  "romanization": "zo gung",
+  "pronunciation": "zoh gung",
+  "pos": "verb / verb-object",
+  "meaning": "to work; to do labor or have a job",
+  "mandarin": "工作 (gōngzuò)",
   "example": {
-    "hakka": "我去市場買菜。",
-    "romanization": "Ngài hi sṳ̀-tshòng mâi tshoi.",
-    "english": "I'm going to the market to buy vegetables."
+    "hakka": "你今晡日愛做工無?",
+    "romanization": "ngi gin-bu-ngit oi zo gung mo?",
+    "english": "Do you have to work today?"
   },
-  "note": "Hakka 買 (mâi) is a falling-tone word, while 賣 (mai, sold/selling) is a similar-sounding word with a different tone, so learners must pay attention to tone to avoid mixing up buying and selling. The pair 買賣 (mâi-mai) means 'trade' or 'business'."
+  "note": "做工 literally means 'do labor' and is the everyday Hakka way to say 'to work', where Mandarin would use 工作 or 上班. It's a verb-object phrase, so you can split it, as in 做一日工 'work for a day'."
 }
