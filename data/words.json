@@ -1087,5 +1087,21 @@
       "english": "Do you have to work today?"
     },
     "note": "做工 literally means 'do labor' and is the everyday Hakka way to say 'to work', where Mandarin would use 工作 or 上班. It's a verb-object phrase, so you can split it, as in 做一日工 'work for a day'."
+  },
+  {
+    "date": "2026-10-07",
+    "generatedAt": "2026-10-07T00:19:29.374Z",
+    "hanzi": "歡喜",
+    "romanization": "fan-hí",
+    "pronunciation": "fahn-HEE (rising tone on 'hee')",
+    "pos": "adjective / verb",
+    "meaning": "happy, glad; to like or be fond of",
+    "mandarin": "高興 / 喜歡 (gāoxìng / xǐhuān)",
+    "example": {
+      "hakka": "看到你，我當歡喜。",
+      "romanization": "Kon-do ngì, ngo dong fan-hí.",
+      "english": "Seeing you, I'm very happy."
+    },
+    "note": "In Hakka, 歡喜 also means 'to like' someone or something, covering the Mandarin 喜歡 as well as 高興. Intensify it with 當 (dong), as in 當歡喜 'very happy'."
   }
 ]
