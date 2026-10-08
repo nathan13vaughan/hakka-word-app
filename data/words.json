@@ -1103,5 +1103,21 @@
       "english": "Seeing you, I'm very happy."
     },
     "note": "In Hakka, 歡喜 also means 'to like' someone or something, covering the Mandarin 喜歡 as well as 高興. Intensify it with 當 (dong), as in 當歡喜 'very happy'."
+  },
+  {
+    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T00:41:00.149Z",
+    "hanzi": "老師",
+    "romanization": "lo-sṳ",
+    "pronunciation": "loh-suh (with a low-ish 'loh', and 'suh' like the 'u' in 'put' stretched with lips unrounded)",
+    "pos": "noun",
+    "meaning": "teacher; also a respectful title for someone who teaches or has expertise",
+    "mandarin": "老師 (lǎoshī)",
+    "example": {
+      "hakka": "吾老師教客語。",
+      "romanization": "Ngai lo-sṳ kau Hak-ngî.",
+      "english": "My teacher teaches Hakka."
+    },
+    "note": "In Taiwan, 老師 is also used as a polite form of address for skilled professionals and respected people, not just for classroom teachers. Hakka speakers often add the surname first, like 張老師, as a respectful way to address someone."
   }
 ]
