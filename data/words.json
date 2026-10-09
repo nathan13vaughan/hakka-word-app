@@ -1119,5 +1119,21 @@
       "english": "My teacher teaches Hakka."
     },
     "note": "In Taiwan, 老師 is also used as a polite form of address for skilled professionals and respected people, not just for classroom teachers. Hakka speakers often add the surname first, like 張老師, as a respectful way to address someone."
+  },
+  {
+    "date": "2026-10-09",
+    "generatedAt": "2026-10-09T00:56:28.209Z",
+    "hanzi": "阿婆",
+    "romanization": "a-po̍",
+    "pronunciation": "ah-poh (the 'oh' is short and cut off, like a quick 'pok')",
+    "pos": "noun",
+    "meaning": "paternal grandmother; also a respectful way to address an elderly woman",
+    "mandarin": "奶奶 (nǎinai)",
+    "example": {
+      "hakka": "阿婆煮个飯上好食。",
+      "romanization": "A-po̍ chú ke fan song hó sṳ̍.",
+      "english": "Grandma's cooking is the most delicious."
+    },
+    "note": "In Sixian Hakka, 阿婆 usually means one's father's mother, and the matching word for the grandfather is 阿公 (a-kûng). Mother's mother is distinguished with external-side terms such as 外婆 (ngoi-po̍)."
   }
 ]

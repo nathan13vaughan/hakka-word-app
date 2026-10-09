@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-08T00:41:00.149Z",
-  "hanzi": "老師",
-  "romanization": "lo-sṳ",
-  "pronunciation": "loh-suh (with a low-ish 'loh', and 'suh' like the 'u' in 'put' stretched with lips unrounded)",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T00:56:28.209Z",
+  "hanzi": "阿婆",
+  "romanization": "a-po̍",
+  "pronunciation": "ah-poh (the 'oh' is short and cut off, like a quick 'pok')",
   "pos": "noun",
-  "meaning": "teacher; also a respectful title for someone who teaches or has expertise",
-  "mandarin": "老師 (lǎoshī)",
+  "meaning": "paternal grandmother; also a respectful way to address an elderly woman",
+  "mandarin": "奶奶 (nǎinai)",
   "example": {
-    "hakka": "吾老師教客語。",
-    "romanization": "Ngai lo-sṳ kau Hak-ngî.",
-    "english": "My teacher teaches Hakka."
+    "hakka": "阿婆煮个飯上好食。",
+    "romanization": "A-po̍ chú ke fan song hó sṳ̍.",
+    "english": "Grandma's cooking is the most delicious."
   },
-  "note": "In Taiwan, 老師 is also used as a polite form of address for skilled professionals and respected people, not just for classroom teachers. Hakka speakers often add the surname first, like 張老師, as a respectful way to address someone."
+  "note": "In Sixian Hakka, 阿婆 usually means one's father's mother, and the matching word for the grandfather is 阿公 (a-kûng). Mother's mother is distinguished with external-side terms such as 外婆 (ngoi-po̍)."
 }
