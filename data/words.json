@@ -1135,5 +1135,21 @@
       "english": "Grandma's cooking is the most delicious."
     },
     "note": "In Sixian Hakka, 阿婆 usually means one's father's mother, and the matching word for the grandfather is 阿公 (a-kûng). Mother's mother is distinguished with external-side terms such as 外婆 (ngoi-po̍)."
+  },
+  {
+    "date": "2026-10-10",
+    "generatedAt": "2026-10-10T00:28:18.000Z",
+    "hanzi": "公園",
+    "romanization": "kûng-yèn",
+    "pronunciation": "koong-yen (with a rising-falling 'koong', then 'yen')",
+    "pos": "noun",
+    "meaning": "park; public garden",
+    "mandarin": "公園 (gōngyuán)",
+    "example": {
+      "hakka": "禮拜日靴爺仔人去公園耍。",
+      "romanization": "Lî-pai-ngit ngài-ngài-e-ngìn hi kûng-yèn sa.",
+      "english": "On Sundays we go to the park to play."
+    },
+    "note": "Many Taiwanese towns have a 公園 beside the temple or old market, where older people gather in the morning to chat, exercise and sing Hakka folk songs."
   }
 ]
