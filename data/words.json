@@ -1151,5 +1151,21 @@
       "english": "On Sundays we go to the park to play."
     },
     "note": "Many Taiwanese towns have a 公園 beside the temple or old market, where older people gather in the morning to chat, exercise and sing Hakka folk songs."
+  },
+  {
+    "date": "2026-10-11",
+    "generatedAt": "2026-10-11T00:04:18.540Z",
+    "hanzi": "師傅",
+    "romanization": "sṳ-fu",
+    "pronunciation": "suh-foo",
+    "pos": "noun",
+    "meaning": "skilled worker or craftsman; master of a trade (also a polite way to address one)",
+    "mandarin": "師傅 (shīfu)",
+    "example": {
+      "hakka": "這個師傅做屋做得當好。",
+      "romanization": "Ngaiˇ ke sṳ-fu zo vuk zo-tet dong hau.",
+      "english": "This craftsman builds houses very well."
+    },
+    "note": "Used for tradespeople such as builders, carpenters, drivers and cooks, and also as a respectful form of address to them. It is a respectful term for someone with real skill, not for a casual worker."
   }
 ]
