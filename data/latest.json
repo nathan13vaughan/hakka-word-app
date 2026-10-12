@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T00:04:18.540Z",
-  "hanzi": "師傅",
-  "romanization": "sṳ-fu",
-  "pronunciation": "suh-foo",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T00:09:53.638Z",
+  "hanzi": "肚屎",
+  "romanization": "du-sṳ́",
+  "pronunciation": "doo-suh (the 'uh' like the 'u' in 'sir', with a rising tone)",
   "pos": "noun",
-  "meaning": "skilled worker or craftsman; master of a trade (also a polite way to address one)",
-  "mandarin": "師傅 (shīfu)",
+  "meaning": "belly; stomach; abdomen",
+  "mandarin": "肚子 (dùzi)",
   "example": {
-    "hakka": "這個師傅做屋做得當好。",
-    "romanization": "Ngaiˇ ke sṳ-fu zo vuk zo-tet dong hau.",
-    "english": "This craftsman builds houses very well."
+    "hakka": "我肚屎痛,毋想食飯。",
+    "romanization": "ngai du-sṳ́ tung, m̀ siong sṳ̍t fan.",
+    "english": "My stomach hurts, I don't want to eat."
   },
-  "note": "Used for tradespeople such as builders, carpenters, drivers and cooks, and also as a respectful form of address to them. It is a respectful term for someone with real skill, not for a casual worker."
+  "note": "The 屎 in 肚屎 is just a noun suffix here, not literally 'excrement'. Hakka uses it in other body-part words too, such as 腳肚屎 (calf)."
 }
