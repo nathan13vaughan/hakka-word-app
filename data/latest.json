@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T00:09:53.638Z",
-  "hanzi": "肚屎",
-  "romanization": "du-sṳ́",
-  "pronunciation": "doo-suh (the 'uh' like the 'u' in 'sir', with a rising tone)",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T02:23:29.054Z",
+  "hanzi": "郵局",
+  "romanization": "yù-kie̍t",
+  "pronunciation": "yoo-kyet",
   "pos": "noun",
-  "meaning": "belly; stomach; abdomen",
-  "mandarin": "肚子 (dùzi)",
+  "meaning": "post office",
+  "mandarin": "郵局 (yóujú)",
   "example": {
-    "hakka": "我肚屎痛,毋想食飯。",
-    "romanization": "ngai du-sṳ́ tung, m̀ siong sṳ̍t fan.",
-    "english": "My stomach hurts, I don't want to eat."
+    "hakka": "我愛去郵局寄信。",
+    "romanization": "ngài oi hi yù-kie̍t kí sin.",
+    "english": "I want to go to the post office to mail a letter."
   },
-  "note": "The 屎 in 肚屎 is just a noun suffix here, not literally 'excrement'. Hakka uses it in other body-part words too, such as 腳肚屎 (calf)."
+  "note": "In Sixian Hakka 局 is read kie̍t (with a checked ending), unlike the Mandarin jú. The same character appears in 警察局 and 電信局, so learning it unlocks several building words."
 }
