@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T02:23:29.054Z",
-  "hanzi": "郵局",
-  "romanization": "yù-kie̍t",
-  "pronunciation": "yoo-kyet",
-  "pos": "noun",
-  "meaning": "post office",
-  "mandarin": "郵局 (yóujú)",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T00:05:43.703Z",
+  "hanzi": "烏",
+  "romanization": "vû",
+  "pronunciation": "voo (like 'voo' in 'voodoo', with a rising-to-high tone)",
+  "pos": "adjective",
+  "meaning": "black; dark",
+  "mandarin": "黑 (hēi)",
   "example": {
-    "hakka": "我愛去郵局寄信。",
-    "romanization": "ngài oi hi yù-kie̍t kí sin.",
-    "english": "I want to go to the post office to mail a letter."
+    "hakka": "佢著一件烏衫。",
+    "romanization": "Gi zok yit kien vû sâm.",
+    "english": "S/he is wearing a black shirt."
   },
-  "note": "In Sixian Hakka 局 is read kie̍t (with a checked ending), unlike the Mandarin jú. The same character appears in 警察局 and 電信局, so learning it unlocks several building words."
+  "note": "Hakka uses 烏 for 'black' where Mandarin uses 黑, and the same word is used for 'dark' (e.g. 天烏烏, the sky is dark). It also appears in 烏糖 (brown sugar) and in 烏白講 (to talk nonsense)."
 }
