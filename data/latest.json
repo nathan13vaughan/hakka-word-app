@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T00:05:43.703Z",
-  "hanzi": "烏",
-  "romanization": "vû",
-  "pronunciation": "voo (like 'voo' in 'voodoo', with a rising-to-high tone)",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-14T23:37:43.124Z",
+  "hanzi": "黃",
+  "romanization": "vòng",
+  "pronunciation": "vong (with a falling-low tone, like 'vawng')",
   "pos": "adjective",
-  "meaning": "black; dark",
-  "mandarin": "黑 (hēi)",
+  "meaning": "yellow",
+  "mandarin": "黃色 (huángsè)",
   "example": {
-    "hakka": "佢著一件烏衫。",
-    "romanization": "Gi zok yit kien vû sâm.",
-    "english": "S/he is wearing a black shirt."
+    "hakka": "這隻香蕉恁黃。",
+    "romanization": "Ngiái-chak hiông-chiâu án vòng.",
+    "english": "This banana is so yellow."
   },
-  "note": "Hakka uses 烏 for 'black' where Mandarin uses 黑, and the same word is used for 'dark' (e.g. 天烏烏, the sky is dark). It also appears in 烏糖 (brown sugar) and in 烏白講 (to talk nonsense)."
+  "note": "In Sixian Hakka the surname 黃 is also pronounced vòng, and many Hakka families bearing this name trace their roots to central China. In everyday speech, color adjectives like 黃 are often used directly as predicates without needing a linking verb."
 }
