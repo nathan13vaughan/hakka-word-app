@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-14T23:37:43.124Z",
-  "hanzi": "黃",
-  "romanization": "vòng",
-  "pronunciation": "vong (with a falling-low tone, like 'vawng')",
-  "pos": "adjective",
-  "meaning": "yellow",
-  "mandarin": "黃色 (huángsè)",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-15T23:31:13.021Z",
+  "hanzi": "單車",
+  "romanization": "tan-chhâ",
+  "pronunciation": "tahn-chah (with a rising 'chah')",
+  "pos": "noun",
+  "meaning": "bicycle",
+  "mandarin": "腳踏車 (jiǎotàchē)",
   "example": {
-    "hakka": "這隻香蕉恁黃。",
-    "romanization": "Ngiái-chak hiông-chiâu án vòng.",
-    "english": "This banana is so yellow."
+    "hakka": "阿哥騎單車去學校。",
+    "romanization": "A-ko khì tan-chhâ hi̍ phak-hau.",
+    "english": "My older brother rides a bicycle to school."
   },
-  "note": "In Sixian Hakka the surname 黃 is also pronounced vòng, and many Hakka families bearing this name trace their roots to central China. In everyday speech, color adjectives like 黃 are often used directly as predicates without needing a linking verb."
+  "note": "In Hakka, 車 is read chhâ (not the Mandarin chē), and 單車 is the common everyday word for a bicycle, as in Cantonese. The verb for riding it is usually 騎 (khì), as in 騎單車."
 }
