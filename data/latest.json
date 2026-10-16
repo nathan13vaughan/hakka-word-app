@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-15T23:31:13.021Z",
-  "hanzi": "單車",
-  "romanization": "tan-chhâ",
-  "pronunciation": "tahn-chah (with a rising 'chah')",
-  "pos": "noun",
-  "meaning": "bicycle",
-  "mandarin": "腳踏車 (jiǎotàchē)",
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-16T23:13:34.626Z",
+  "hanzi": "糶米",
+  "romanization": "tiau-mî",
+  "pronunciation": "tee-ow mee (with a falling-then-level feel on 'mee')",
+  "pos": "verb phrase",
+  "meaning": "to sell rice",
+  "mandarin": "賣米 (mài mǐ)",
   "example": {
-    "hakka": "阿哥騎單車去學校。",
-    "romanization": "A-ko khì tan-chhâ hi̍ phak-hau.",
-    "english": "My older brother rides a bicycle to school."
+    "hakka": "阿伯在市場糶米。",
+    "romanization": "A-pak ti shi-chhòng tiau-mî.",
+    "english": "The old man is selling rice at the market."
   },
-  "note": "In Hakka, 車 is read chhâ (not the Mandarin chē), and 單車 is the common everyday word for a bicycle, as in Cantonese. The verb for riding it is usually 騎 (khì), as in 騎單車."
+  "note": "Hakka distinguishes buying grain (糴 tha̍k) from selling it (糶 tiau), a pair that has merged in Mandarin. Rice is central to Hakka cooking and farming life, so these old, specific verbs survive."
 }
