@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-16T23:13:34.626Z",
-  "hanzi": "糶米",
-  "romanization": "tiau-mî",
-  "pronunciation": "tee-ow mee (with a falling-then-level feel on 'mee')",
-  "pos": "verb phrase",
-  "meaning": "to sell rice",
-  "mandarin": "賣米 (mài mǐ)",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-17T22:50:40.340Z",
+  "hanzi": "牙齒",
+  "romanization": "ngà-chṳ́",
+  "pronunciation": "ngah-chuh (the 'ng' as in 'singer'; the final 'ṳ' is a flat, unrounded vowel like the 'i' in 'sir' without the r)",
+  "pos": "noun",
+  "meaning": "tooth; teeth",
+  "mandarin": "牙齒 (yáchǐ)",
   "example": {
-    "hakka": "阿伯在市場糶米。",
-    "romanization": "A-pak ti shi-chhòng tiau-mî.",
-    "english": "The old man is selling rice at the market."
+    "hakka": "你愛逐日洗牙齒。",
+    "romanization": "Ngì oi chuk-ngit sé ngà-chṳ́.",
+    "english": "You must brush your teeth every day."
   },
-  "note": "Hakka distinguishes buying grain (糴 tha̍k) from selling it (糶 tiau), a pair that has merged in Mandarin. Rice is central to Hakka cooking and farming life, so these old, specific verbs survive."
+  "note": "In Hakka the word begins with the nasal 'ng-', a sound Mandarin lacks, so learners often drop it. To say 'toothache' you can say 牙齒痛 (ngà-chṳ́ thung)."
 }
