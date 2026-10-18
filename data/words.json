@@ -1279,5 +1279,21 @@
       "english": "You must brush your teeth every day."
     },
     "note": "In Hakka the word begins with the nasal 'ng-', a sound Mandarin lacks, so learners often drop it. To say 'toothache' you can say 牙齒痛 (ngà-chṳ́ thung)."
+  },
+  {
+    "date": "2026-10-19",
+    "generatedAt": "2026-10-18T22:43:00.663Z",
+    "hanzi": "昨日",
+    "romanization": "tshòk-ngit",
+    "pronunciation": "chok-ngit (the 'ch' is aspirated, like in 'church'; 'ng' as in 'sing')",
+    "pos": "noun (time word)",
+    "meaning": "yesterday",
+    "mandarin": "昨天 (zuótiān)",
+    "example": {
+      "hakka": "昨日我去市場買菜。",
+      "romanization": "Tshòk-ngit ngài hi sṳ-tshòng mai tshoi.",
+      "english": "Yesterday I went to the market to buy vegetables."
+    },
+    "note": "In Hakka, 日 (ngit) is the everyday word for 'day', where Mandarin uses 天, so you'll hear it in many time words, such as 今日 (today) and 天光日 (tomorrow). Use 昨日 for 'yesterday' and 今日 for 'today'."
   }
 ]
