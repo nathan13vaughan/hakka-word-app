@@ -1295,5 +1295,21 @@
       "english": "Yesterday I went to the market to buy vegetables."
     },
     "note": "In Hakka, 日 (ngit) is the everyday word for 'day', where Mandarin uses 天, so you'll hear it in many time words, such as 今日 (today) and 天光日 (tomorrow). Use 昨日 for 'yesterday' and 今日 for 'today'."
+  },
+  {
+    "date": "2026-10-20",
+    "generatedAt": "2026-10-20T00:04:57.849Z",
+    "hanzi": "雞",
+    "romanization": "kie",
+    "pronunciation": "kee-eh (one quick syllable, like 'kyeh' with a high-level tone)",
+    "pos": "noun",
+    "meaning": "chicken",
+    "mandarin": "雞 (jī)",
+    "example": {
+      "hakka": "阿婆養當多雞。",
+      "romanization": "A-phò yong tong-do kie.",
+      "english": "Grandma raises a lot of chickens."
+    },
+    "note": "In Sixian Hakka, 雞 is pronounced 'kie' (tone 1), not like Mandarin 'jī'. Chicken is a staple of Hakka cooking, especially the famous 'white-cut chicken' (白斬雞) served at festivals and ancestor worship."
   }
 ]
