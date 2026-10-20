@@ -1311,5 +1311,21 @@
       "english": "Grandma raises a lot of chickens."
     },
     "note": "In Sixian Hakka, 雞 is pronounced 'kie' (tone 1), not like Mandarin 'jī'. Chicken is a staple of Hakka cooking, especially the famous 'white-cut chicken' (白斬雞) served at festivals and ancestor worship."
+  },
+  {
+    "date": "2026-10-21",
+    "generatedAt": "2026-10-20T23:35:39.557Z",
+    "hanzi": "樹仔",
+    "romanization": "shu-é",
+    "pronunciation": "shoo-eh",
+    "pos": "noun",
+    "meaning": "tree",
+    "mandarin": "樹 (shù)",
+    "example": {
+      "hakka": "屋下前背有一棚大樹仔。",
+      "romanization": "vuk-ha chhiòn-póe yû yit pâng thai shu-é.",
+      "english": "In front of the house there is a big tree."
+    },
+    "note": "The suffix 仔 (é) is very common in Hakka nouns, adding a casual, diminutive feel. Trees are counted with the measure word 棚 (pâng) in Sixian."
   }
 ]
