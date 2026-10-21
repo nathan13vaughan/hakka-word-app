@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-20T23:35:39.557Z",
-  "hanzi": "樹仔",
-  "romanization": "shu-é",
-  "pronunciation": "shoo-eh",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T23:52:58.049Z",
+  "hanzi": "年頭",
+  "romanization": "ngièn-thèu",
+  "pronunciation": "ngyen-teo (ng as in 'singer'; 'eo' like the 'e' in 'bed' followed by a soft 'oo')",
   "pos": "noun",
-  "meaning": "tree",
-  "mandarin": "樹 (shù)",
+  "meaning": "year; the start of the year; also used for 'years' in the sense of a period (e.g. 'in those years')",
+  "mandarin": "年頭 (nián tóu)",
   "example": {
-    "hakka": "屋下前背有一棚大樹仔。",
-    "romanization": "vuk-ha chhiòn-póe yû yit pâng thai shu-é.",
-    "english": "In front of the house there is a big tree."
+    "hakka": "今年年頭，𠊎去台北做工。",
+    "romanization": "Kîn-ngièn ngièn-thèu, ngài hi Thòi-pet tso-kûng.",
+    "english": "At the beginning of this year, I went to Taipei to work."
   },
-  "note": "The suffix 仔 (é) is very common in Hakka nouns, adding a casual, diminutive feel. Trees are counted with the measure word 棚 (pâng) in Sixian."
+  "note": "年頭 literally means 'year head' and is the opposite of 年尾 (ngièn-mî, year's end). Hakka speakers often use these two words to talk about the start and close of the year, such as when settling accounts before the new year."
 }
