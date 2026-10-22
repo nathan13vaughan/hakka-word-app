@@ -1343,5 +1343,21 @@
       "english": "At the beginning of this year, I went to Taipei to work."
     },
     "note": "年頭 literally means 'year head' and is the opposite of 年尾 (ngièn-mî, year's end). Hakka speakers often use these two words to talk about the start and close of the year, such as when settling accounts before the new year."
+  },
+  {
+    "date": "2026-10-23",
+    "generatedAt": "2026-10-22T23:50:49.823Z",
+    "hanzi": "問路",
+    "romanization": "mun-lu",
+    "pronunciation": "moon loo",
+    "pos": "verb phrase",
+    "meaning": "to ask for directions",
+    "mandarin": "問路 (wèn lù)",
+    "example": {
+      "hakka": "尋毋著路,故所問路。",
+      "romanization": "Cìm m̀ cho̍k lu, ngài-sói mun-lu.",
+      "english": "I can't find the way, so I'll ask for directions."
+    },
+    "note": "問 is pronounced mun in Sixian Hakka, not like Mandarin wèn. It is a handy phrase for travelers, often followed by 對哪位去? (Where does one go?)."
   }
 ]
