@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-22T23:50:49.823Z",
-  "hanzi": "問路",
-  "romanization": "mun-lu",
-  "pronunciation": "moon loo",
-  "pos": "verb phrase",
-  "meaning": "to ask for directions",
-  "mandarin": "問路 (wèn lù)",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-23T23:43:48.515Z",
+  "hanzi": "落雨",
+  "romanization": "lo̍k-yí",
+  "pronunciation": "lowk-yee (with the 'k' at the end of 'lowk' cut off short)",
+  "pos": "verb",
+  "meaning": "to rain; it is raining",
+  "mandarin": "下雨 (xià yǔ)",
   "example": {
-    "hakka": "尋毋著路,故所問路。",
-    "romanization": "Cìm m̀ cho̍k lu, ngài-sói mun-lu.",
-    "english": "I can't find the way, so I'll ask for directions."
+    "hakka": "今晡日落雨。",
+    "romanization": "Gim-pû-ngit lo̍k-yí.",
+    "english": "It's raining today."
   },
-  "note": "問 is pronounced mun in Sixian Hakka, not like Mandarin wèn. It is a handy phrase for travelers, often followed by 對哪位去? (Where does one go?)."
+  "note": "Hakka uses 落 (lo̍k) for rain where Mandarin uses 下 (xià). The same verb appears in 落雪 (to snow) and 落水 (to get rained on)."
 }
