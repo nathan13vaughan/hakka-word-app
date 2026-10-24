@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-23T23:43:48.515Z",
-  "hanzi": "落雨",
-  "romanization": "lo̍k-yí",
-  "pronunciation": "lowk-yee (with the 'k' at the end of 'lowk' cut off short)",
-  "pos": "verb",
-  "meaning": "to rain; it is raining",
-  "mandarin": "下雨 (xià yǔ)",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-24T22:50:52.942Z",
+  "hanzi": "客人",
+  "romanization": "hak-ngìn",
+  "pronunciation": "hahk-NGIN (the 'ng' as in 'singer'; falling-low tone on the second syllable)",
+  "pos": "noun",
+  "meaning": "guest; visitor",
+  "mandarin": "客人 (kèrén)",
   "example": {
-    "hakka": "今晡日落雨。",
-    "romanization": "Gim-pû-ngit lo̍k-yí.",
-    "english": "It's raining today."
+    "hakka": "今晡日有客人來。",
+    "romanization": "Gîn-pû-ngit yû hak-ngìn lòi.",
+    "english": "We have guests coming today."
   },
-  "note": "Hakka uses 落 (lo̍k) for rain where Mandarin uses 下 (xià). The same verb appears in 落雪 (to snow) and 落水 (to get rained on)."
+  "note": "The 客 in 客人 is the same character as in 客家 (Hakka), which literally means 'guest families'. Hospitality toward guests is central to Hakka culture, and hosts often offer tea and food right away."
 }
