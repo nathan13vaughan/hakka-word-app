@@ -1391,5 +1391,21 @@
       "english": "We have guests coming today."
     },
     "note": "The 客 in 客人 is the same character as in 客家 (Hakka), which literally means 'guest families'. Hospitality toward guests is central to Hakka culture, and hosts often offer tea and food right away."
+  },
+  {
+    "date": "2026-10-26",
+    "generatedAt": "2026-10-25T22:59:39.419Z",
+    "hanzi": "考試",
+    "romanization": "khéu-sṳ",
+    "pronunciation": "kyoh-suh (with a rising tone on 'kyoh')",
+    "pos": "noun / verb",
+    "meaning": "exam, test; to take an exam",
+    "mandarin": "考試 (kǎoshì)",
+    "example": {
+      "hakka": "明日愛考試,今晡日愛共下好好仔讀書。",
+      "romanization": "Màng-ngit oi khéu-sṳ, kîm-pû-ngit oi khiung-ha hó-hó-é thug-sû.",
+      "english": "There's an exam tomorrow, so today we have to study properly."
+    },
+    "note": "考試 is a Sinitic word shared across Chinese varieties, but the Hakka reading keeps the rising tone on 考 and the Hakka 's' initial in 試. Pair it with 愛 (oi, 'must/need to') for natural phrases like 愛考試."
   }
 ]
