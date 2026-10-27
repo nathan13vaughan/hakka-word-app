@@ -1407,5 +1407,21 @@
       "english": "There's an exam tomorrow, so today we have to study properly."
     },
     "note": "考試 is a Sinitic word shared across Chinese varieties, but the Hakka reading keeps the rising tone on 考 and the Hakka 's' initial in 試. Pair it with 愛 (oi, 'must/need to') for natural phrases like 愛考試."
+  },
+  {
+    "date": "2026-10-27",
+    "generatedAt": "2026-10-27T00:12:36.962Z",
+    "hanzi": "暗晡",
+    "romanization": "am-bu",
+    "pronunciation": "AHM-boo",
+    "pos": "noun",
+    "meaning": "evening; night (the time after dark)",
+    "mandarin": "晚上 (wǎnshang)",
+    "example": {
+      "hakka": "暗晡愛早兜睡。",
+      "romanization": "Am-bu oi chô-têu soi.",
+      "english": "Go to bed a bit early tonight."
+    },
+    "note": "Like 早晨 (morning) and 下畫 (afternoon), 暗晡 is a core time-of-day word in Sixian. 'Tonight' is usually 今晡日 for today or 今夜 in other contexts, but 暗晡 alone is the everyday word for 'evening'."
   }
 ]
