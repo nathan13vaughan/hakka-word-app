@@ -1423,5 +1423,21 @@
       "english": "Go to bed a bit early tonight."
     },
     "note": "Like 早晨 (morning) and 下畫 (afternoon), 暗晡 is a core time-of-day word in Sixian. 'Tonight' is usually 今晡日 for today or 今夜 in other contexts, but 暗晡 alone is the everyday word for 'evening'."
+  },
+  {
+    "date": "2026-10-28",
+    "generatedAt": "2026-10-28T00:13:28.406Z",
+    "hanzi": "騎馬",
+    "romanization": "kî-má",
+    "pronunciation": "kee-mah",
+    "pos": "verb",
+    "meaning": "to ride a horse; in Taiwan Hakka also used loosely for riding astride a vehicle",
+    "mandarin": "騎馬 (qí mǎ)",
+    "example": {
+      "hakka": "佢學騎馬。",
+      "romanization": "Kî hok kî-má.",
+      "english": "He/she is learning to ride a horse."
+    },
+    "note": "The verb 騎 (kî) is the general word for riding anything you straddle, so it also appears in 騎單車 (kî tân-chhâ), though 單車 is already in your vocabulary. Horses were once a key means of transport in rural areas."
   }
 ]
