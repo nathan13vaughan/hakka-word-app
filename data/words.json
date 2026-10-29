@@ -1439,5 +1439,21 @@
       "english": "He/she is learning to ride a horse."
     },
     "note": "The verb 騎 (kî) is the general word for riding anything you straddle, so it also appears in 騎單車 (kî tân-chhâ), though 單車 is already in your vocabulary. Horses were once a key means of transport in rural areas."
+  },
+  {
+    "date": "2026-10-29",
+    "generatedAt": "2026-10-29T00:34:13.743Z",
+    "hanzi": "洗面",
+    "romanization": "sé-mien",
+    "pronunciation": "seh-myen (the 'e' is like 'eh' in 'bed', with a mid-falling tone on the first syllable)",
+    "pos": "verb",
+    "meaning": "to wash one's face",
+    "mandarin": "洗臉 (xǐ liǎn)",
+    "example": {
+      "hakka": "汝愛先洗面,正來食飯。",
+      "romanization": "Ngì oi sîn sé-mien, chang lòi sṳ̍t-fan.",
+      "english": "You need to wash your face first, then come eat."
+    },
+    "note": "Hakka uses 面 (mien) for 'face', where Mandarin uses 臉. It pairs naturally with 洗身 (to bathe) in a morning routine."
   }
 ]
