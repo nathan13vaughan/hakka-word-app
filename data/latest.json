@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T00:34:13.743Z",
-  "hanzi": "洗面",
-  "romanization": "sé-mien",
-  "pronunciation": "seh-myen (the 'e' is like 'eh' in 'bed', with a mid-falling tone on the first syllable)",
-  "pos": "verb",
-  "meaning": "to wash one's face",
-  "mandarin": "洗臉 (xǐ liǎn)",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T00:33:19.383Z",
+  "hanzi": "香蕉",
+  "romanization": "hiông-chiâu",
+  "pronunciation": "hee-ONG chee-AO",
+  "pos": "noun",
+  "meaning": "banana",
+  "mandarin": "香蕉 (xiāng jiāo)",
   "example": {
-    "hakka": "汝愛先洗面,正來食飯。",
-    "romanization": "Ngì oi sîn sé-mien, chang lòi sṳ̍t-fan.",
-    "english": "You need to wash your face first, then come eat."
+    "hakka": "我愛食香蕉。",
+    "romanization": "Ngài oi si̍t hiông-chiâu.",
+    "english": "I want to eat a banana."
   },
-  "note": "Hakka uses 面 (mien) for 'face', where Mandarin uses 臉. It pairs naturally with 洗身 (to bathe) in a morning routine."
+  "note": "Taiwan was once famous for exporting bananas, and Hakka communities in southern Taiwan, such as Meinong and Liudui, grew many of them. The second syllable 蕉 is read chiâu in Hakka, not like the Mandarin jiāo."
 }

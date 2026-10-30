@@ -1455,5 +1455,21 @@
       "english": "You need to wash your face first, then come eat."
     },
     "note": "Hakka uses 面 (mien) for 'face', where Mandarin uses 臉. It pairs naturally with 洗身 (to bathe) in a morning routine."
+  },
+  {
+    "date": "2026-10-30",
+    "generatedAt": "2026-10-30T00:33:19.383Z",
+    "hanzi": "香蕉",
+    "romanization": "hiông-chiâu",
+    "pronunciation": "hee-ONG chee-AO",
+    "pos": "noun",
+    "meaning": "banana",
+    "mandarin": "香蕉 (xiāng jiāo)",
+    "example": {
+      "hakka": "我愛食香蕉。",
+      "romanization": "Ngài oi si̍t hiông-chiâu.",
+      "english": "I want to eat a banana."
+    },
+    "note": "Taiwan was once famous for exporting bananas, and Hakka communities in southern Taiwan, such as Meinong and Liudui, grew many of them. The second syllable 蕉 is read chiâu in Hakka, not like the Mandarin jiāo."
   }
 ]
