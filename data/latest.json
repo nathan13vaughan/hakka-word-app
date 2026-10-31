@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T00:33:19.383Z",
-  "hanzi": "香蕉",
-  "romanization": "hiông-chiâu",
-  "pronunciation": "hee-ONG chee-AO",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:19:33.769Z",
+  "hanzi": "凍頂烏龍",
+  "romanization": "Tung-tin̂ vu-liùng",
+  "pronunciation": "tung-din woo-lyoong",
   "pos": "noun",
-  "meaning": "banana",
-  "mandarin": "香蕉 (xiāng jiāo)",
+  "meaning": "Dongding oolong tea, a famous Taiwanese partly-fermented tea",
+  "mandarin": "凍頂烏龍茶 (dòngdǐng wūlóngchá)",
   "example": {
-    "hakka": "我愛食香蕉。",
-    "romanization": "Ngài oi si̍t hiông-chiâu.",
-    "english": "I want to eat a banana."
+    "hakka": "逐日暗晡正食凍頂烏龍,食了還歸身燒。",
+    "romanization": "Tiuk-ngit am-pu zang sṳ̍t Tung-tin̂ vu-liùng, sṳ̍t-liáu hai kui-sṳn seu.",
+    "english": "I only drink Dongding oolong in the evening; after drinking it my whole body still feels warm."
   },
-  "note": "Taiwan was once famous for exporting bananas, and Hakka communities in southern Taiwan, such as Meinong and Liudui, grew many of them. The second syllable 蕉 is read chiâu in Hakka, not like the Mandarin jiāo."
+  "note": "Dongding oolong comes from the mountains of Lugu in Nantou, Taiwan, and is a pride of Taiwanese tea culture. Hakka communities in Taiwan also grow famous teas such as Oriental Beauty (膨風茶) in Hsinchu and Miaoli."
 }
