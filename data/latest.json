@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T00:19:33.769Z",
-  "hanzi": "凍頂烏龍",
-  "romanization": "Tung-tin̂ vu-liùng",
-  "pronunciation": "tung-din woo-lyoong",
+  "date": "2026-11-01",
+  "generatedAt": "2026-10-31T23:55:32.895Z",
+  "hanzi": "水牛",
+  "romanization": "shui-ngiù",
+  "pronunciation": "shwee-ngYOO (the 'ng' as in 'sing')",
   "pos": "noun",
-  "meaning": "Dongding oolong tea, a famous Taiwanese partly-fermented tea",
-  "mandarin": "凍頂烏龍茶 (dòngdǐng wūlóngchá)",
+  "meaning": "water buffalo",
+  "mandarin": "水牛 (shuǐniú)",
   "example": {
-    "hakka": "逐日暗晡正食凍頂烏龍,食了還歸身燒。",
-    "romanization": "Tiuk-ngit am-pu zang sṳ̍t Tung-tin̂ vu-liùng, sṳ̍t-liáu hai kui-sṳn seu.",
-    "english": "I only drink Dongding oolong in the evening; after drinking it my whole body still feels warm."
+    "hakka": "阿伯騎等水牛去耕田。",
+    "romanization": "A-pak khì-tén shui-ngiù hi-kîn-thièn.",
+    "english": "Grandpa rides a water buffalo to go plough the field."
   },
-  "note": "Dongding oolong comes from the mountains of Lugu in Nantou, Taiwan, and is a pride of Taiwanese tea culture. Hakka communities in Taiwan also grow famous teas such as Oriental Beauty (膨風茶) in Hsinchu and Miaoli."
+  "note": "Water buffalo were once the farmer's most important helper in Hakka villages, used for ploughing paddy fields. Hakka keeps the old 'ng-' initial in 牛 (ngiù), which Mandarin has lost."
 }
