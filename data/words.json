@@ -1503,5 +1503,21 @@
       "english": "Grandpa rides a water buffalo to go plough the field."
     },
     "note": "Water buffalo were once the farmer's most important helper in Hakka villages, used for ploughing paddy fields. Hakka keeps the old 'ng-' initial in 牛 (ngiù), which Mandarin has lost."
+  },
+  {
+    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T00:10:53.039Z",
+    "hanzi": "搭車",
+    "romanization": "tap-chha",
+    "pronunciation": "tahp-chah",
+    "pos": "verb",
+    "meaning": "to take a vehicle (bus, train, car); to catch a ride",
+    "mandarin": "搭車 (dā chē)",
+    "example": {
+      "hakka": "我愛搭車去臺北。",
+      "romanization": "Ngaiˇ oi tap-chha hi Thòi-pet.",
+      "english": "I want to take the train/bus to Taipei."
+    },
+    "note": "搭 (tap) is used with many vehicles, so 搭車 works for buses, trains and cars alike. To ask for a ride, you can say 搭一下車, 'give me a lift'."
   }
 ]
