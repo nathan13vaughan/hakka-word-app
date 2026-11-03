@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T00:10:53.039Z",
-  "hanzi": "搭車",
-  "romanization": "tap-chha",
-  "pronunciation": "tahp-chah",
-  "pos": "verb",
-  "meaning": "to take a vehicle (bus, train, car); to catch a ride",
-  "mandarin": "搭車 (dā chē)",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T02:44:49.163Z",
+  "hanzi": "問路牌",
+  "romanization": "mun-lu-pâi",
+  "pronunciation": "mun loo pie",
+  "pos": "noun",
+  "meaning": "signpost",
+  "mandarin": "路牌 (lùpái)",
   "example": {
-    "hakka": "我愛搭車去臺北。",
-    "romanization": "Ngaiˇ oi tap-chha hi Thòi-pet.",
-    "english": "I want to take the train/bus to Taipei."
+    "hakka": "路口有一隻路牌。",
+    "romanization": "Lu-hieu yû yit chak lu-pâi.",
+    "english": "There is a signpost at the intersection."
   },
-  "note": "搭 (tap) is used with many vehicles, so 搭車 works for buses, trains and cars alike. To ask for a ride, you can say 搭一下車, 'give me a lift'."
+  "note": "I could not verify this entry. 問路牌 is probably an error, and the standard word is 路牌 (lu-pâi). Treat the headword and its romanization as unreliable."
 }
