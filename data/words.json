@@ -1535,5 +1535,21 @@
       "english": "There is a signpost at the intersection."
     },
     "note": "I could not verify this entry. 問路牌 is probably an error, and the standard word is 路牌 (lu-pâi). Treat the headword and its romanization as unreliable."
+  },
+  {
+    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T01:00:28.179Z",
+    "hanzi": "街路",
+    "romanization": "kie-lu",
+    "pronunciation": "kyeh loo",
+    "pos": "noun",
+    "meaning": "street; the main road(s) of a town",
+    "mandarin": "街道 (jiēdào)",
+    "example": {
+      "hakka": "阿姆在街路買菜。",
+      "romanization": "A-mê chhai kie-lu mai chhoi.",
+      "english": "Mom is buying vegetables on the street."
+    },
+    "note": "In Hakka, 街 is read kie (not the Mandarin jiē), and 街路 is often used to mean 'town' as opposed to the countryside, as in 'go to town' (去街路)."
   }
 ]
