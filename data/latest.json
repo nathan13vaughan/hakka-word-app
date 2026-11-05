@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T01:00:28.179Z",
-  "hanzi": "街路",
-  "romanization": "kie-lu",
-  "pronunciation": "kyeh loo",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T01:15:06.828Z",
+  "hanzi": "米粉",
+  "romanization": "mî-fun",
+  "pronunciation": "mee-foon (mee with a falling tone)",
   "pos": "noun",
-  "meaning": "street; the main road(s) of a town",
-  "mandarin": "街道 (jiēdào)",
+  "meaning": "rice noodles; thin noodles made from rice, often stir-fried or served in soup",
+  "mandarin": "米粉 (mǐfěn)",
   "example": {
-    "hakka": "阿姆在街路買菜。",
-    "romanization": "A-mê chhai kie-lu mai chhoi.",
-    "english": "Mom is buying vegetables on the street."
+    "hakka": "阿姆炒米粉分𠊎食。",
+    "romanization": "A-mè chau mî-fun pun ngài shi̍t.",
+    "english": "Mom stir-fried rice noodles for me to eat."
   },
-  "note": "In Hakka, 街 is read kie (not the Mandarin jiē), and 街路 is often used to mean 'town' as opposed to the countryside, as in 'go to town' (去街路)."
+  "note": "Fried rice noodles (炒米粉) are a classic Hakka dish in Taiwan, especially associated with Hsinchu, and are a staple at festivals and family gatherings."
 }
