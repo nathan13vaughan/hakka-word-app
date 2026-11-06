@@ -1567,5 +1567,21 @@
       "english": "Mom stir-fried rice noodles for me to eat."
     },
     "note": "Fried rice noodles (炒米粉) are a classic Hakka dish in Taiwan, especially associated with Hsinchu, and are a staple at festivals and family gatherings."
+  },
+  {
+    "date": "2026-11-06",
+    "generatedAt": "2026-11-06T01:20:23.750Z",
+    "hanzi": "同事",
+    "romanization": "thùng-sṳ",
+    "pronunciation": "toong-suh",
+    "pos": "noun",
+    "meaning": "colleague; coworker",
+    "mandarin": "同事 (tóngshì)",
+    "example": {
+      "hakka": "我同同事一下去食飯。",
+      "romanization": "ngài thùng thùng-sṳ yit-ha hi sṳt-fan.",
+      "english": "I go eat with my coworkers."
+    },
+    "note": "同事 is used just like in Mandarin, but the Hakka reading is thùng-sṳ with the Sixian rising-less low tone on 同. Colleagues often share lunch boxes and chat in Hakka at farms, factories and shops, so the word comes up constantly in daily life."
   }
 ]
