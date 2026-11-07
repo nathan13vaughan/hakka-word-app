@@ -1583,5 +1583,21 @@
       "english": "I go eat with my coworkers."
     },
     "note": "同事 is used just like in Mandarin, but the Hakka reading is thùng-sṳ with the Sixian rising-less low tone on 同. Colleagues often share lunch boxes and chat in Hakka at farms, factories and shops, so the word comes up constantly in daily life."
+  },
+  {
+    "date": "2026-11-07",
+    "generatedAt": "2026-11-07T00:35:09.027Z",
+    "hanzi": "筷仔",
+    "romanization": "khoai-é",
+    "pronunciation": "kwhy-eh",
+    "pos": "noun",
+    "meaning": "chopsticks",
+    "mandarin": "筷子 (kuàizi)",
+    "example": {
+      "hakka": "請用筷仔食飯。",
+      "romanization": "Chhiáng yung khoai-é sṳ̍t fan.",
+      "english": "Please use chopsticks to eat."
+    },
+    "note": "The suffix 仔 (é) is a common Hakka noun ending, similar to Mandarin 子. Chopsticks should never be stuck upright in a bowl of rice, as this resembles incense offerings to the dead."
   }
 ]
