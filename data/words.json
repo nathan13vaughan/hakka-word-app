@@ -1599,5 +1599,21 @@
       "english": "Please use chopsticks to eat."
     },
     "note": "The suffix 仔 (é) is a common Hakka noun ending, similar to Mandarin 子. Chopsticks should never be stuck upright in a bowl of rice, as this resembles incense offerings to the dead."
+  },
+  {
+    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T00:09:09.533Z",
+    "hanzi": "月餅",
+    "romanization": "ngie̍t-piang",
+    "pronunciation": "NGYEHT-pyang",
+    "pos": "noun",
+    "meaning": "mooncake, a round pastry eaten during the Mid-Autumn Festival",
+    "mandarin": "月餅 (yuèbǐng)",
+    "example": {
+      "hakka": "中秋節當暗晡,阿姆買月餅分大家食。",
+      "romanization": "Chûng-chhiû-chiet tông-am-pû, a-mê mâi ngie̍t-piang pûn thai-kâ shi̍t.",
+      "english": "On the evening of the Mid-Autumn Festival, Mom bought mooncakes for everyone to eat."
+    },
+    "note": "Families traditionally share mooncakes while gazing at the full moon on the 15th day of the eighth lunar month. The word 餅 (piang) is also used in Hakka for many other pastries and cakes."
   }
 ]
