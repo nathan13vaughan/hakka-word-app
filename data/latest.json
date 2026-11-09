@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T00:09:09.533Z",
-  "hanzi": "月餅",
-  "romanization": "ngie̍t-piang",
-  "pronunciation": "NGYEHT-pyang",
-  "pos": "noun",
-  "meaning": "mooncake, a round pastry eaten during the Mid-Autumn Festival",
-  "mandarin": "月餅 (yuèbǐng)",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T00:27:32.589Z",
+  "hanzi": "同樂",
+  "romanization": "thùng-lo̍k",
+  "pronunciation": "toong-lock",
+  "pos": "verb",
+  "meaning": "to enjoy together; to have fun together with others",
+  "mandarin": "同樂 (tóng lè)",
   "example": {
-    "hakka": "中秋節當暗晡,阿姆買月餅分大家食。",
-    "romanization": "Chûng-chhiû-chiet tông-am-pû, a-mê mâi ngie̍t-piang pûn thai-kâ shi̍t.",
-    "english": "On the evening of the Mid-Autumn Festival, Mom bought mooncakes for everyone to eat."
+    "hakka": "過年當無閒,大家來同樂。",
+    "romanization": "Kuo-ngiàn dong mò-hàng, thai-kâ lòi thùng-lo̍k.",
+    "english": "New Year is very busy, so let's all get together and have fun."
   },
-  "note": "Families traditionally share mooncakes while gazing at the full moon on the 15th day of the eighth lunar month. The word 餅 (piang) is also used in Hakka for many other pastries and cakes."
+  "note": "Often seen on banners and invitations for community events, as in 同樂會 (a fun get-together). It carries a warm, communal feeling rather than just 'having fun' alone."
 }
