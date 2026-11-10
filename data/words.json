@@ -1631,5 +1631,21 @@
       "english": "New Year is very busy, so let's all get together and have fun."
     },
     "note": "Often seen on banners and invitations for community events, as in 同樂會 (a fun get-together). It carries a warm, communal feeling rather than just 'having fun' alone."
+  },
+  {
+    "date": "2026-11-10",
+    "generatedAt": "2026-11-10T03:07:19.554Z",
+    "hanzi": "洗手",
+    "romanization": "sé su",
+    "pronunciation": "seh soo",
+    "pos": "verb",
+    "meaning": "to wash one's hands",
+    "mandarin": "洗手 (xǐ shǒu)",
+    "example": {
+      "hakka": "食飯前爾愛先洗手。",
+      "romanization": "Sṳ̍t fan chhièn ngì oi sîn sé su.",
+      "english": "You must wash your hands before eating."
+    },
+    "note": "Hakka 洗 is read se (not the Mandarin xǐ), and it appears in many routine verbs like 洗面 and 洗身. Hakka children are often reminded to 洗手 before meals."
   }
 ]

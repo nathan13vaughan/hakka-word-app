@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T00:27:32.589Z",
-  "hanzi": "同樂",
-  "romanization": "thùng-lo̍k",
-  "pronunciation": "toong-lock",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T03:07:19.554Z",
+  "hanzi": "洗手",
+  "romanization": "sé su",
+  "pronunciation": "seh soo",
   "pos": "verb",
-  "meaning": "to enjoy together; to have fun together with others",
-  "mandarin": "同樂 (tóng lè)",
+  "meaning": "to wash one's hands",
+  "mandarin": "洗手 (xǐ shǒu)",
   "example": {
-    "hakka": "過年當無閒,大家來同樂。",
-    "romanization": "Kuo-ngiàn dong mò-hàng, thai-kâ lòi thùng-lo̍k.",
-    "english": "New Year is very busy, so let's all get together and have fun."
+    "hakka": "食飯前爾愛先洗手。",
+    "romanization": "Sṳ̍t fan chhièn ngì oi sîn sé su.",
+    "english": "You must wash your hands before eating."
   },
-  "note": "Often seen on banners and invitations for community events, as in 同樂會 (a fun get-together). It carries a warm, communal feeling rather than just 'having fun' alone."
+  "note": "Hakka 洗 is read se (not the Mandarin xǐ), and it appears in many routine verbs like 洗面 and 洗身. Hakka children are often reminded to 洗手 before meals."
 }
