@@ -1647,5 +1647,21 @@
       "english": "You must wash your hands before eating."
     },
     "note": "Hakka 洗 is read se (not the Mandarin xǐ), and it appears in many routine verbs like 洗面 and 洗身. Hakka children are often reminded to 洗手 before meals."
+  },
+  {
+    "date": "2026-11-11",
+    "generatedAt": "2026-11-11T00:59:07.188Z",
+    "hanzi": "寫字",
+    "romanization": "xia² sṳ",
+    "pronunciation": "shyah sih (rising tone on 'shyah')",
+    "pos": "verb",
+    "meaning": "to write; to write characters",
+    "mandarin": "寫字 (xiě zì)",
+    "example": {
+      "hakka": "阿妹在該寫字。",
+      "romanization": "A-moi ngoi² ke xia² sṳ.",
+      "english": "Little sister is writing characters over there."
+    },
+    "note": "In Sixian Hakka, 寫 is pronounced 'xia' (not like Mandarin 'xiě'), a good example of how Hakka preserves older sound patterns. Children in Taiwan often practice 寫字 with brush and ink as part of traditional calligraphy lessons."
   }
 ]
