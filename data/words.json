@@ -1679,5 +1679,21 @@
       "english": "I take the bus to school."
     },
     "note": "I'm not fully certain of this word. Hakka speakers in Taiwan more often say 巴士 (pa-sṳ) or 公車 (kûng-chhà) for 'bus'. Please check it with a native speaker or a dictionary before you rely on it."
+  },
+  {
+    "date": "2026-11-14",
+    "generatedAt": "2026-11-14T01:13:37.141Z",
+    "hanzi": "工廠",
+    "romanization": "kûng-chhóng",
+    "pronunciation": "koong-chong (with 'ch' like 'ch' in 'church', slightly aspirated)",
+    "pos": "noun",
+    "meaning": "factory",
+    "mandarin": "工廠 (gōngchǎng)",
+    "example": {
+      "hakka": "阿爸在工廠做工。",
+      "romanization": "A-pa ti kûng-chhóng cho-kûng.",
+      "english": "Dad works at the factory."
+    },
+    "note": "工廠 is written the same as in Mandarin but pronounced with Hakka readings, and 工 (kûng) is the same character found in 做工 (to work). Many Hakka communities in Taiwan, such as in Taoyuan and Hsinchu, historically had many factory jobs."
   }
 ]

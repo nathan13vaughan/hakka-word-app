@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T01:38:07.358Z",
-  "hanzi": "摎車",
-  "romanization": "kiéu-chhà",
-  "pronunciation": "kyeh-oo chah",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T01:13:37.141Z",
+  "hanzi": "工廠",
+  "romanization": "kûng-chhóng",
+  "pronunciation": "koong-chong (with 'ch' like 'ch' in 'church', slightly aspirated)",
   "pos": "noun",
-  "meaning": "bus",
-  "mandarin": "公車 (gōngchē)",
+  "meaning": "factory",
+  "mandarin": "工廠 (gōngchǎng)",
   "example": {
-    "hakka": "我坐摎車去學堂。",
-    "romanization": "ngài chho kiéu-chhà hi hok-thòng.",
-    "english": "I take the bus to school."
+    "hakka": "阿爸在工廠做工。",
+    "romanization": "A-pa ti kûng-chhóng cho-kûng.",
+    "english": "Dad works at the factory."
   },
-  "note": "I'm not fully certain of this word. Hakka speakers in Taiwan more often say 巴士 (pa-sṳ) or 公車 (kûng-chhà) for 'bus'. Please check it with a native speaker or a dictionary before you rely on it."
+  "note": "工廠 is written the same as in Mandarin but pronounced with Hakka readings, and 工 (kûng) is the same character found in 做工 (to work). Many Hakka communities in Taiwan, such as in Taoyuan and Hsinchu, historically had many factory jobs."
 }
