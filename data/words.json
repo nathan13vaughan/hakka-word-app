@@ -1695,5 +1695,21 @@
       "english": "Dad works at the factory."
     },
     "note": "工廠 is written the same as in Mandarin but pronounced with Hakka readings, and 工 (kûng) is the same character found in 做工 (to work). Many Hakka communities in Taiwan, such as in Taoyuan and Hsinchu, historically had many factory jobs."
+  },
+  {
+    "date": "2026-11-15",
+    "generatedAt": "2026-11-15T00:41:23.171Z",
+    "hanzi": "禾稈",
+    "romanization": "vo̍ kón",
+    "pronunciation": "voh gone",
+    "pos": "noun",
+    "meaning": "rice straw; the dried stalks left after rice is harvested",
+    "mandarin": "稻草 (dào cǎo)",
+    "example": {
+      "hakka": "阿公用禾稈來縛菜。",
+      "romanization": "A-kûng yung vo̍ kón lòi pa̍k coi.",
+      "english": "Grandfather uses rice straw to tie up vegetables."
+    },
+    "note": "Rice straw was once everywhere in Hakka farming villages, used for roofing, fuel, tying things and even as bedding. Stacks of it, called 禾稈堆, were a familiar sight in the fields after harvest."
   }
 ]
