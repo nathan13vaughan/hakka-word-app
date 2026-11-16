@@ -1711,5 +1711,21 @@
       "english": "Grandfather uses rice straw to tie up vegetables."
     },
     "note": "Rice straw was once everywhere in Hakka farming villages, used for roofing, fuel, tying things and even as bedding. Stacks of it, called 禾稈堆, were a familiar sight in the fields after harvest."
+  },
+  {
+    "date": "2026-11-16",
+    "generatedAt": "2026-11-16T00:40:32.018Z",
+    "hanzi": "阿叔",
+    "romanization": "a-suk",
+    "pronunciation": "ah-sook",
+    "pos": "noun",
+    "meaning": "father's younger brother; uncle (also a polite way to address a man younger than one's father)",
+    "mandarin": "叔叔 (shūshu)",
+    "example": {
+      "hakka": "阿叔昨日來阮兜食飯。",
+      "romanization": "A-suk cho-ngit loi ngan-teu sṳ̍t-fan.",
+      "english": "Uncle came to our house to eat yesterday."
+    },
+    "note": "In Hakka, 阿叔 refers to the father's younger brother, while the father's older brother is 阿伯. Both can also be used to politely address unrelated older men."
   }
 ]

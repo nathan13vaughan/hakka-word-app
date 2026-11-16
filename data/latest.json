@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T00:41:23.171Z",
-  "hanzi": "禾稈",
-  "romanization": "vo̍ kón",
-  "pronunciation": "voh gone",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T00:40:32.018Z",
+  "hanzi": "阿叔",
+  "romanization": "a-suk",
+  "pronunciation": "ah-sook",
   "pos": "noun",
-  "meaning": "rice straw; the dried stalks left after rice is harvested",
-  "mandarin": "稻草 (dào cǎo)",
+  "meaning": "father's younger brother; uncle (also a polite way to address a man younger than one's father)",
+  "mandarin": "叔叔 (shūshu)",
   "example": {
-    "hakka": "阿公用禾稈來縛菜。",
-    "romanization": "A-kûng yung vo̍ kón lòi pa̍k coi.",
-    "english": "Grandfather uses rice straw to tie up vegetables."
+    "hakka": "阿叔昨日來阮兜食飯。",
+    "romanization": "A-suk cho-ngit loi ngan-teu sṳ̍t-fan.",
+    "english": "Uncle came to our house to eat yesterday."
   },
-  "note": "Rice straw was once everywhere in Hakka farming villages, used for roofing, fuel, tying things and even as bedding. Stacks of it, called 禾稈堆, were a familiar sight in the fields after harvest."
+  "note": "In Hakka, 阿叔 refers to the father's younger brother, while the father's older brother is 阿伯. Both can also be used to politely address unrelated older men."
 }
