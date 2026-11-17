@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T00:40:32.018Z",
-  "hanzi": "阿叔",
-  "romanization": "a-suk",
-  "pronunciation": "ah-sook",
-  "pos": "noun",
-  "meaning": "father's younger brother; uncle (also a polite way to address a man younger than one's father)",
-  "mandarin": "叔叔 (shūshu)",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T03:22:09.517Z",
+  "hanzi": "洗碗",
+  "romanization": "sé vóng",
+  "pronunciation": "seh vong (both with a rising tone)",
+  "pos": "verb",
+  "meaning": "to wash the dishes",
+  "mandarin": "洗碗 (xǐ wǎn)",
   "example": {
-    "hakka": "阿叔昨日來阮兜食飯。",
-    "romanization": "A-suk cho-ngit loi ngan-teu sṳ̍t-fan.",
-    "english": "Uncle came to our house to eat yesterday."
+    "hakka": "食飽飯,吾來洗碗。",
+    "romanization": "Sṳ̍t pó fan, ngài lòi sé vóng.",
+    "english": "After we've eaten, I'll wash the dishes."
   },
-  "note": "In Hakka, 阿叔 refers to the father's younger brother, while the father's older brother is 阿伯. Both can also be used to politely address unrelated older men."
+  "note": "In Sixian Hakka, 洗 is read sé and 碗 is vóng, and the two words combine like the learner's already-known 洗面 and 洗手. Washing up is a classic daily chore, so you will hear this phrase often in family kitchens."
 }
