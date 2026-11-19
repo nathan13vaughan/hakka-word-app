@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T03:22:09.517Z",
-  "hanzi": "洗碗",
-  "romanization": "sé vóng",
-  "pronunciation": "seh vong (both with a rising tone)",
-  "pos": "verb",
-  "meaning": "to wash the dishes",
-  "mandarin": "洗碗 (xǐ wǎn)",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T02:13:38.103Z",
+  "hanzi": "花",
+  "romanization": "fa",
+  "pronunciation": "fah (like 'fa' in 'father', said with a high-level tone)",
+  "pos": "noun",
+  "meaning": "flower; blossom",
+  "mandarin": "花 (huā)",
   "example": {
-    "hakka": "食飽飯,吾來洗碗。",
-    "romanization": "Sṳ̍t pó fan, ngài lòi sé vóng.",
-    "english": "After we've eaten, I'll wash the dishes."
+    "hakka": "屋下個花開忒了。",
+    "romanization": "vuk-ha ke fa koi-tet lio.",
+    "english": "The flowers at home have bloomed."
   },
-  "note": "In Sixian Hakka, 洗 is read sé and 碗 is vóng, and the two words combine like the learner's already-known 洗面 and 洗手. Washing up is a classic daily chore, so you will hear this phrase often in family kitchens."
+  "note": "In Hakka, 花 is also used in compounds like 花布 (fa-pu, floral cloth), which is iconic in Hakka culture, especially Taiwan's Hakka floral-print fabric."
 }
