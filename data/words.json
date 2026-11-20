@@ -1759,5 +1759,21 @@
       "english": "The flowers at home have bloomed."
     },
     "note": "In Hakka, 花 is also used in compounds like 花布 (fa-pu, floral cloth), which is iconic in Hakka culture, especially Taiwan's Hakka floral-print fabric."
+  },
+  {
+    "date": "2026-11-20",
+    "generatedAt": "2026-11-20T01:59:25.428Z",
+    "hanzi": "蟻公",
+    "romanization": "ngie-kûng",
+    "pronunciation": "NGEE-goong (the 'ng' as in 'sing')",
+    "pos": "noun",
+    "meaning": "ant",
+    "mandarin": "螞蟻 (mǎyǐ)",
+    "example": {
+      "hakka": "地泥下有好多蟻公。",
+      "romanization": "thi-nài ha yû hó-tô ngie-kûng.",
+      "english": "There are lots of ants on the ground."
+    },
+    "note": "In Sixian Hakka the ant is called 蟻公 (literally 'ant-male') even though the word covers all ants. The suffix 公 is also used in other animal names, such as 雞公 (rooster)."
   }
 ]
