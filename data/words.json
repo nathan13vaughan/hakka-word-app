@@ -1775,5 +1775,21 @@
       "english": "There are lots of ants on the ground."
     },
     "note": "In Sixian Hakka the ant is called 蟻公 (literally 'ant-male') even though the word covers all ants. The suffix 公 is also used in other animal names, such as 雞公 (rooster)."
+  },
+  {
+    "date": "2026-11-21",
+    "generatedAt": "2026-11-21T01:56:35.844Z",
+    "hanzi": "阿嫂",
+    "romanization": "a-sau",
+    "pronunciation": "ah-sow",
+    "pos": "noun",
+    "meaning": "older brother's wife; sister-in-law (elder brother's wife)",
+    "mandarin": "嫂嫂 (sǎosao)",
+    "example": {
+      "hakka": "阿嫂煮个菜當好食。",
+      "romanization": "A-sau chu ke choi tong hau shit.",
+      "english": "My sister-in-law's cooking is really delicious."
+    },
+    "note": "Hakka speakers also use 阿嫂 as a polite way to address a married woman of one's elder brother's generation, even if she is not a relative. It pairs naturally with 阿哥 (elder brother)."
   }
 ]
