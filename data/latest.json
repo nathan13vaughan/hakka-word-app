@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T00:53:32.105Z",
-  "hanzi": "聊天",
-  "romanization": "liâu-thiên",
-  "pronunciation": "lyow-tyen",
-  "pos": "verb",
-  "meaning": "to chat; to talk casually with friends",
-  "mandarin": "聊天 (liáotiān)",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T01:22:01.640Z",
+  "hanzi": "薪水",
+  "romanization": "sîn-súi",
+  "pronunciation": "sin (like 'sin') + sooee (rising tone)",
+  "pos": "noun",
+  "meaning": "salary; wages paid for work",
+  "mandarin": "薪水 (xīnshuǐ)",
   "example": {
-    "hakka": "𠊎兜昨日暗晡摎朋友聊天。",
-    "romanization": "ngài-teu cho̍k-ngit am-bû lâu pèn-yû liâu-thiên.",
-    "english": "Yesterday evening we chatted with friends."
+    "hakka": "這個月个薪水還毋曾發。",
+    "romanization": "Ngài-kâi ngie̍t-kie̍t sîn-súi hâi m̀-tshṳ̀n fat.",
+    "english": "This month's salary hasn't been paid yet."
   },
-  "note": "聊天 is used for relaxed, friendly conversation, often over tea or while sitting outside the house. Hakka also has the more colloquial 講giang/講故事, but 聊天 is widely understood."
+  "note": "Hakka speakers often pair 薪水 with 'lim-sî' (臨時) jobs or 'ngiên-sîn' (年薪) for annual pay. Taiwanese people also commonly say 'lòi-sîn' when talking about the monthly paycheck, but 薪水 is the standard everyday term."
 }
