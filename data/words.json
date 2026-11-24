@@ -1823,5 +1823,21 @@
       "english": "This month's salary hasn't been paid yet."
     },
     "note": "Hakka speakers often pair 薪水 with 'lim-sî' (臨時) jobs or 'ngiên-sîn' (年薪) for annual pay. Taiwanese people also commonly say 'lòi-sîn' when talking about the monthly paycheck, but 薪水 is the standard everyday term."
+  },
+  {
+    "date": "2026-11-24",
+    "generatedAt": "2026-11-24T05:06:58.078Z",
+    "hanzi": "麥仔茶",
+    "romanization": "ma̍k-é-chhà",
+    "pronunciation": "mahk-eh-chah",
+    "pos": "noun",
+    "meaning": "barley tea, a roasted grain drink served hot or cold",
+    "mandarin": "麥茶 (mài chá)",
+    "example": {
+      "hakka": "天時當熱，摎我一杯麥仔茶。",
+      "romanization": "Thiên-sṳ̀ tông ngia̍t, lâu ngài yit pî ma̍k-é-chhà.",
+      "english": "The weather is very hot, so give me a glass of barley tea."
+    },
+    "note": "Barley tea contains no tea leaves, yet Hakka families often boil a big pot in summer to keep the household cool. Hakka uses the suffix 仔 (é) to make a noun, so 麥仔 means barley."
   }
 ]
