@@ -1839,5 +1839,21 @@
       "english": "The weather is very hot, so give me a glass of barley tea."
     },
     "note": "Barley tea contains no tea leaves, yet Hakka families often boil a big pot in summer to keep the household cool. Hakka uses the suffix 仔 (é) to make a noun, so 麥仔 means barley."
+  },
+  {
+    "date": "2026-11-25",
+    "generatedAt": "2026-11-25T03:55:57.039Z",
+    "hanzi": "菊花",
+    "romanization": "kiuk-fa",
+    "pronunciation": "kyook-fah",
+    "pos": "noun",
+    "meaning": "chrysanthemum",
+    "mandarin": "菊花 (jú huā)",
+    "example": {
+      "hakka": "阿婆種了當多菊花。",
+      "romanization": "A-phò chung-le tong-do kiuk-fa.",
+      "english": "Grandma planted a lot of chrysanthemums."
+    },
+    "note": "Chrysanthemums bloom in autumn and are often steeped as a tea (菊花茶), which is believed to cool the body. They are also associated with Chung Yang Festival (重陽節), when people traditionally admire them."
   }
 ]

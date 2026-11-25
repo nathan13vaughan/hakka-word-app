@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T05:06:58.078Z",
-  "hanzi": "麥仔茶",
-  "romanization": "ma̍k-é-chhà",
-  "pronunciation": "mahk-eh-chah",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T03:55:57.039Z",
+  "hanzi": "菊花",
+  "romanization": "kiuk-fa",
+  "pronunciation": "kyook-fah",
   "pos": "noun",
-  "meaning": "barley tea, a roasted grain drink served hot or cold",
-  "mandarin": "麥茶 (mài chá)",
+  "meaning": "chrysanthemum",
+  "mandarin": "菊花 (jú huā)",
   "example": {
-    "hakka": "天時當熱，摎我一杯麥仔茶。",
-    "romanization": "Thiên-sṳ̀ tông ngia̍t, lâu ngài yit pî ma̍k-é-chhà.",
-    "english": "The weather is very hot, so give me a glass of barley tea."
+    "hakka": "阿婆種了當多菊花。",
+    "romanization": "A-phò chung-le tong-do kiuk-fa.",
+    "english": "Grandma planted a lot of chrysanthemums."
   },
-  "note": "Barley tea contains no tea leaves, yet Hakka families often boil a big pot in summer to keep the household cool. Hakka uses the suffix 仔 (é) to make a noun, so 麥仔 means barley."
+  "note": "Chrysanthemums bloom in autumn and are often steeped as a tea (菊花茶), which is believed to cool the body. They are also associated with Chung Yang Festival (重陽節), when people traditionally admire them."
 }
