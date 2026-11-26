@@ -1855,5 +1855,21 @@
       "english": "Grandma planted a lot of chrysanthemums."
     },
     "note": "Chrysanthemums bloom in autumn and are often steeped as a tea (菊花茶), which is believed to cool the body. They are also associated with Chung Yang Festival (重陽節), when people traditionally admire them."
+  },
+  {
+    "date": "2026-11-26",
+    "generatedAt": "2026-11-26T03:20:48.106Z",
+    "hanzi": "算錢",
+    "romanization": "son-chien",
+    "pronunciation": "sohn chyen",
+    "pos": "verb",
+    "meaning": "to calculate the price or total; to settle the bill",
+    "mandarin": "算錢 (suàn qián)",
+    "example": {
+      "hakka": "阿姆,幫我算錢。",
+      "romanization": "A-mê, pûng ngòi son-chien.",
+      "english": "Mom, please help me work out the bill."
+    },
+    "note": "At a market stall, you can say this to ask the vendor to total up what you owe. 錢 (chien) is the common Hakka word for money."
   }
 ]
