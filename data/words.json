@@ -1871,5 +1871,21 @@
       "english": "Mom, please help me work out the bill."
     },
     "note": "At a market stall, you can say this to ask the vendor to total up what you owe. 錢 (chien) is the common Hakka word for money."
+  },
+  {
+    "date": "2026-11-27",
+    "generatedAt": "2026-11-27T03:27:04.454Z",
+    "hanzi": "滾水",
+    "romanization": "kûn-súi",
+    "pronunciation": "kwun-sway",
+    "pos": "noun",
+    "meaning": "boiling water; hot boiled water",
+    "mandarin": "開水 (kāi shuǐ)",
+    "example": {
+      "hakka": "麼个東西愛先用滾水燙一下。",
+      "romanization": "Mâ-kai tûng-sî oi sîn yung kûn-súi thong yit-ha.",
+      "english": "Scald everything with boiling water first."
+    },
+    "note": "In Hakka, 滾 means 'to boil', so 滾水 is used for both boiling water and drinking water that has been boiled. It is also the base of many cooking steps, like blanching (燙) vegetables or making noodle soup."
   }
 ]
