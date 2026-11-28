@@ -1887,5 +1887,21 @@
       "english": "Scald everything with boiling water first."
     },
     "note": "In Hakka, 滾 means 'to boil', so 滾水 is used for both boiling water and drinking water that has been boiled. It is also the base of many cooking steps, like blanching (燙) vegetables or making noodle soup."
+  },
+  {
+    "date": "2026-11-28",
+    "generatedAt": "2026-11-28T03:02:57.443Z",
+    "hanzi": "苦瓜",
+    "romanization": "fú-gua",
+    "pronunciation": "foo-gwah (foo with a rising tone, gwah with a flat tone)",
+    "pos": "noun",
+    "meaning": "bitter melon, a green, bumpy-skinned vegetable with a bitter taste",
+    "mandarin": "苦瓜 (kǔguā)",
+    "example": {
+      "hakka": "苦瓜炒鹹菜,食起來當好。",
+      "romanization": "fú-gua chau ham-coi, sṳ̍t-hí-lòi dong hó.",
+      "english": "Stir-fried bitter melon with pickled mustard greens tastes really good."
+    },
+    "note": "Hakka cooking often pairs bitter melon with salty ingredients like fermented black beans or pickled mustard greens to balance the bitterness. It's also a popular choice for soups in the hot summer months."
   }
 ]
